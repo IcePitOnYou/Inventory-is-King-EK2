@@ -1,12 +1,12 @@
 
-saturation_scale = 1.0
+saturation_scale = 0.9
 value_scale = 2.0
 colorbalance = { 1 1 1 }
 levels_min = hsv{ 0 0 0 }
 levels_max = hsv{ 0 0 1 }
 
 exposure_function = "FixedExposure"
-exposure = 0.6
+exposure = 0.55
 
 tonemap_function = "Uncharted"
 tonemap_curve = {

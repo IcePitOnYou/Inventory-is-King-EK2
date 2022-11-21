@@ -1,0 +1,23 @@
+
+saturation_scale = 1.0
+value_scale = 2.0
+colorbalance = { 1 1 1 }
+levels_min = hsv{ 0 0 0 }
+levels_max = hsv{ 0 0 1 }
+
+exposure_function = "FixedExposure"
+exposure = 0.6
+
+tonemap_function = "Uncharted"
+tonemap_curve = {
+	shoulder_strength = 0.2
+	linear_strength = 0.3
+	linear_angle = 0.1
+	toe_strength = 0.2
+	toe_numerator = 0.01
+	toe_denominator = 0.3
+	linear_white = 11.0
+}
+
+shadowmap_kernelscale = 8
+shadowmap_fadefactor = 1.7
