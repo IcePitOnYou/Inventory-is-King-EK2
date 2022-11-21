@@ -1,0 +1,2216 @@
+﻿####################################################
+########## ICONS FOR TRAITS IN TEXT
+####################################################
+texticon = {
+	icon = ambitious_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/ambitious.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = arbitrary_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/arbitrary.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = arrogant_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/arrogant.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = architect_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/architect.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = athletic_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/athletic.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = beauty_good_1_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/beauty_good_1.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = beauty_good_2_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/beauty_good_2.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = beauty_good_3_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/beauty_good_3.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+
+texticon = {
+	icon = brave_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/brave.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = blademaster_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/blademaster.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = callous_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/callous.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = calm_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/calm.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = chaste_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/chaste.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = content_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/content.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = cynical_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/cynical.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = deceitful_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/deceitful.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = diligent_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/diligent.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = compassionate_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/compassionate.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = fickle_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/fickle.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = forgiving_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/forgiving.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = generous_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/generous.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = gluttonous_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/gluttonous.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = greedy_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/greedy.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = gregarious_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/gregarious.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = honest_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/honest.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = humble_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/humble.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = hunter_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/hunter.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = paranoid_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/paranoid.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = infirm_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/infirm.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = intel_good_1_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/intellect_good_1.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = intel_good_2_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/intellect_good_2.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = intel_good_3_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/intellect_good_3.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = just_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/just.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = lazy_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/lazy.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = lisping_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/lisping.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = lustful_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/lustful.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = melancholic_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/depressed_1.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = mystic_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/mystic.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = physician_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/physician.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = physique_good_1_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/physique_good_1.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = physique_good_2_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/physique_good_2.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = physique_good_3_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/physique_good_3.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = poet_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/poet.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = reclusive_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/reclusive.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = sadistic_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/sadistic.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = scholar_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/scholar.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = shrewd_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/shrewd.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = shy_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/shy.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = strong_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/strong.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = stubborn_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/stubborn.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = stuttering_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/stuttering.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = vengeful_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/vengeful.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = wrathful_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/wrathful.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = trusting_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/trusting.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = zealous_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/zealous.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+### SPECIALS
+
+texticon = {
+	icon = busy_ruling_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_royal_court.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = busy_clergy_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/religious.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+### EDUCATIONS
+
+texticon = {
+	icon = education_diplomacy_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/education_diplomacy_base.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = education_martial_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/education_martial_base.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = education_stewardship_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/education_stewardship_base.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = education_learning_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/education_learning_base.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = education_intrigue_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/education_intrigue_base.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+### COURT EXPERIENCES
+
+texticon = {
+	icon = diplomatic_court_1_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/diplomatic_court_1.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = diplomatic_court_2_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/diplomatic_court_2.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = warlike_court_1_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/warlike_court_1.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = warlike_court_2_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/warlike_court_2.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = administrative_court_1_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/administrative_court_1.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = administrative_court_2_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/administrative_court_2.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = intrigue_court_1_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/intrigue_court_1.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = intrigue_court_2_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/intrigue_court_2.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = scholarly_court_1_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/scholarly_court_1.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = scholarly_court_2_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/scholarly_court_2.dds"
+		size = { 24 24 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = patient_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/patient.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = shy_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/shy.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+
+####################################################
+
+texticon = {
+	icon = spymaster_assistant_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/spy_master.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = lord_sheriff_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/marshal_job.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = court_emissary_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/chancellor_job.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = steward_constable_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/steward_job.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = temple_assistant_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/religious.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = executioner_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_dead.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = bodyguard_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_knight.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = champion_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_commander.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = artificer_icon
+	iconsize = {
+		texture = "gfx/interface/icons/artifact/artifact_ring.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = musician_icon
+	iconsize = {
+		texture = "gfx/interface/icons/violin.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = poet_icon
+	iconsize = {
+		texture = "gfx/interface/icons/artifact/artifact_pressed_flowers.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = jester_icon
+	iconsize = {
+		texture = "gfx/interface/icons/jester.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = cupbearer_icon
+	iconsize = {
+		texture = "gfx/interface/icons/cupbearer.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = seneschal_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/council.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = architect_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/building.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = almoner_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_supply.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = masterhorse_icon
+	iconsize = {
+		texture = "gfx/interface/icons/master_horse.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = tutor_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/learning.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = antiquarian_icon
+	iconsize = {
+		texture = "gfx/interface/icons/antiquarian.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = foodtaster_icon
+	iconsize = {
+		texture = "gfx/interface/icons/food.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = masterhunt_icon
+	iconsize = {
+		texture = "gfx/interface/icons/dog.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = swans_icon
+	iconsize = {
+		texture = "gfx/interface/icons/swan.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = physician_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/court_physician.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = eunuch_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/eunuch.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = ladyinpink_icon
+	iconsize = {
+		texture = "gfx/interface/icons/ladyinpink.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = garuda_icon
+	iconsize = {
+		texture = "gfx/interface/icons/garuda.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = gardener_icon
+	iconsize = {
+		texture = "gfx/interface/icons/garden.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = qadi_icon
+	iconsize = {
+		texture = "gfx/interface/icons/Qadi.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = emissary_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/secret.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = painter_icon
+	iconsize = {
+		texture = "gfx/interface/icons/Painting.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = sculptor_icon
+	iconsize = {
+		texture = "gfx/interface/icons/Sculpture.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = apothecary_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/herbalist_base.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = queenmother_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_royal_court.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = herald_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_banner.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = mastercourrier_icon
+	iconsize = {
+		texture = "gfx/interface/icons/courrier.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = taxcollector_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/money.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = tariff_icon
+	iconsize = {
+		texture = "gfx/interface/icons/silver.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = philosofer_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_culture.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = chronicler_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/dynasty.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = librarian_icon
+	iconsize = {
+		texture = "gfx/interface/icons/book.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = admiral_icon
+	iconsize = {
+		texture = "gfx/interface/icons/boat.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = masterarms_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_battle_advantage.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = vizier_icon
+	iconsize = {
+		texture = "gfx/interface/icons/vizier.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = canonist_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/law.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = mastersacrifices_icon
+	iconsize = {
+		texture = "gfx/interface/icons/attrition_2.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = sacredgrove_icon
+	iconsize = {
+		texture = "gfx/interface/icons/sacredgrove.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = armorer_icon
+	iconsize = {
+		texture = "gfx/interface/icons/armour.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = torturer_icon
+	iconsize = {
+		texture = "gfx/interface/icons/torturer.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = quartermaster_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_domain.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = stable_master_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_holding_city.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = master_blacksmith_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_fervor.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = pursuivant_of_arms_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_event_effect.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = commander_lt_of_arrows_icon
+	iconsize = {
+		texture = "gfx/interface/icons/lt_arrows.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = royal_scourge_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/death_unknown.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = envoy_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/generic_good_effect.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = hmissionary_icon
+	iconsize = {
+		texture = "gfx/interface/icons/hmissionary.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = missionary_icon
+	iconsize = {
+		texture = "gfx/interface/icons/missionary.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = raid_icon
+	iconsize = {
+		texture = "gfx/interface/icons/map_icons/icon_raid.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = control_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/control.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = marriage_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/marriage.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = religious_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/religious.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = artifact_icon
+	iconsize = {
+		texture = "gfx/interface/icons/artifact/artifact_ring.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = debt_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/county_corruption.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = title_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/titles.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = alliance_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/alliance.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = war_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/war.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = child_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/child.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = vassal_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_vassal.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = physician_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/court_physician.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = concubine_icon
+	iconsize = {
+		texture = "gfx/interface/icons/memory_types/lover.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = focus_icon
+	iconsize = {
+		texture = "gfx/interface/icons/character_interactions/debug_good.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = heir_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/heir.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = prison_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/prison.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = land_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_domain.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = books_icon
+	iconsize = {
+		texture = "gfx/interface/icons/ketaros/books.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = anvil_icon
+	iconsize = {
+		texture = "gfx/interface/icons/ketaros/anvil.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = goblet_icon
+	iconsize = {
+		texture = "gfx/interface/icons/ketaros/goblet.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = guardian_icon
+	iconsize = {
+		texture = "gfx/interface/icons/ketaros/guardian.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = election_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/nickname.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = faith_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/religious_councillor_job.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = notendorsed_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/excommunication.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = duel_icon
+	iconsize = {
+		texture = "gfx/interface/icons/ketaros/duel.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = university_icon
+	iconsize = {
+		texture = "gfx/interface/icons/ketaros/university.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = transfer_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_pursuit.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = spymaster_assistant_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/spy_master.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = lord_sheriff_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/marshal_job.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = court_emissary_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/chancellor_job.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = steward_constable_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/steward_job.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = temple_assistant_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/religious.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = executioner_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_dead.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = bodyguard_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_knight.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = champion_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_commander.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = artificer_icon
+	iconsize = {
+		texture = "gfx/interface/icons/artifact/artifact_ring.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = musician_icon
+	iconsize = {
+		texture = "gfx/interface/icons/violin.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = poet_icon
+	iconsize = {
+		texture = "gfx/interface/icons/artifact/artifact_pressed_flowers.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = jester_icon
+	iconsize = {
+		texture = "gfx/interface/icons/jester.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = cupbearer_icon
+	iconsize = {
+		texture = "gfx/interface/icons/cupbearer.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = seneschal_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/council.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = architect_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/building.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = almoner_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_supply.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = masterhorse_icon
+	iconsize = {
+		texture = "gfx/interface/icons/master_horse.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = tutor_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/learning.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = antiquarian_icon
+	iconsize = {
+		texture = "gfx/interface/icons/antiquarian.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = foodtaster_icon
+	iconsize = {
+		texture = "gfx/interface/icons/food.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = masterhunt_icon
+	iconsize = {
+		texture = "gfx/interface/icons/dog.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = swans_icon
+	iconsize = {
+		texture = "gfx/interface/icons/swan.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = physician_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/court_physician.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = eunuch_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/eunuch.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = ladyinpink_icon
+	iconsize = {
+		texture = "gfx/interface/icons/ladyinpink.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = garuda_icon
+	iconsize = {
+		texture = "gfx/interface/icons/garuda.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = gardener_icon
+	iconsize = {
+		texture = "gfx/interface/icons/garden.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = qadi_icon
+	iconsize = {
+		texture = "gfx/interface/icons/Qadi.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = emissary_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/secret.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = painter_icon
+	iconsize = {
+		texture = "gfx/interface/icons/Painting.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = sculptor_icon
+	iconsize = {
+		texture = "gfx/interface/icons/Sculpture.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = apothecary_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/herbalist_base.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = queenmother_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_royal_court.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = herald_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_banner.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = mastercourrier_icon
+	iconsize = {
+		texture = "gfx/interface/icons/courrier.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = taxcollector_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/money.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = tariff_icon
+	iconsize = {
+		texture = "gfx/interface/icons/silver.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = chronicler_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/dynasty.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = librarian_icon
+	iconsize = {
+		texture = "gfx/interface/icons/book.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = admiral_icon
+	iconsize = {
+		texture = "gfx/interface/icons/boat.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = masterarms_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_battle_advantage.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = vizier_icon
+	iconsize = {
+		texture = "gfx/interface/icons/vizier.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = canonist_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/law.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = mastersacrifices_icon
+	iconsize = {
+		texture = "gfx/interface/icons/attrition_2.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = sacredgrove_icon
+	iconsize = {
+		texture = "gfx/interface/icons/sacredgrove.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = armorer_icon
+	iconsize = {
+		texture = "gfx/interface/icons/armour.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = torturer_icon
+	iconsize = {
+		texture = "gfx/interface/icons/torturer.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = quartermaster_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_domain.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = stable_master_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_holding_city.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = master_blacksmith_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_fervor.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = pursuivant_of_arms_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_event_effect.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = commander_lt_of_arrows_icon
+	iconsize = {
+		texture = "gfx/interface/icons/lt_arrows.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = royal_scourge_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/death_unknown.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = envoy_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/generic_good_effect.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = grand_winemaker_icon
+	iconsize = {
+		texture = "gfx/interface/icons/grand_winemaker.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = court_scriber_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/generic_neutral_effect.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = master_merchant_icon
+	iconsize = {
+		texture = "gfx/interface/icons/artifact/artifact_ring.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = master_at_arms_icon
+	iconsize = {
+		texture = "gfx/interface/icons/icon_battle_advantage.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = foreign_affairs_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/alliance.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = philosopher_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/dynasty.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = barrister_official_icon
+	iconsize = {
+		texture = "gfx/interface/icons/message_feed/law.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = pillage_school_icon
+	iconsize = {
+		texture = "gfx/interface/icons/traits/reaver.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = redcross_icon
+	iconsize = {
+		texture = "gfx/interface/icons/redcross.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+texticon = {
+	icon = bag_icon
+	iconsize = {
+		texture = "gfx/interface/icons/bag.dds"
+		size = { 25 25 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+
+
+

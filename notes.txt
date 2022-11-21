@@ -1,0 +1,26 @@
+- All the traits icons more vivid colors.
+	- Obsolete: Ketaros Advanced Trait Icons Mod
+- Men-at-Arms units more vivid colors.
+- Deduplication of Units replaced with new ones.
+- 9 Cultural Units graphics added.
+	- Obsolete: Ketaros Units Graphics
+- Colorful Portrait Decorations by rank.
+	- Obsolete: Ketaros Portrait Decorations.
+- Color variations on text refering to ranks.
+	- Obsolete: Colored Tiers (Titles)
+- Prowess exposed on list and chars with orange background.
+	- Obsolete: Ketaros Prowess Matters
+- Improved the vibrance of background for skills.
+	- Obsolete: CK2 Style Brighter Attributes
+- Added all decorations, styles and elements for Court Offices
+	- Obsolete: Ketaros Court Offices
+- Improved Face Textures and Lighting of Models
+	- Obsolete: Several! All mods dealing with beauty.
+
+Brand New Additions
+- Current Situation Message Board with icons.
+- Court Positions requirements with icons.
+
+Other Mods Improvements
+- Ketaros Advanced Positions: Icons on Titles.
+

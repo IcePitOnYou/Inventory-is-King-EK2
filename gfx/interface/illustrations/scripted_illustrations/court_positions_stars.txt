@@ -1,0 +1,1335 @@
+﻿### Character interior background by Ketaros
+
+courtposition_view_stars = {
+
+	texture = {
+		trigger = {     has_court_position = court_physician_court_position
+			aptitude = { 	court_position = court_physician_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_physician_court_position
+			aptitude = { 	court_position = court_physician_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_physician_court_position
+			aptitude = { 	court_position = court_physician_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_physician_court_position
+			aptitude = { 	court_position = court_physician_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_physician_court_position
+			aptitude = { 	court_position = court_physician_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = antiquarian_court_position
+			aptitude = { 	court_position = antiquarian_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = antiquarian_court_position
+			aptitude = { 	court_position = antiquarian_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = antiquarian_court_position
+			aptitude = { 	court_position = antiquarian_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = antiquarian_court_position
+			aptitude = { 	court_position = antiquarian_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = antiquarian_court_position
+			aptitude = { 	court_position = antiquarian_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = cultural_emissary_court_position
+			aptitude = { 	court_position = cultural_emissary_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = cultural_emissary_court_position
+			aptitude = { 	court_position = cultural_emissary_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = cultural_emissary_court_position
+			aptitude = { 	court_position = cultural_emissary_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = cultural_emissary_court_position
+			aptitude = { 	court_position = cultural_emissary_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = cultural_emissary_court_position
+			aptitude = { 	court_position = cultural_emissary_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = keeper_of_swans_court_position
+			aptitude = { 	court_position = keeper_of_swans_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = keeper_of_swans_court_position
+			aptitude = { 	court_position = keeper_of_swans_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = keeper_of_swans_court_position
+			aptitude = { 	court_position = keeper_of_swans_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = keeper_of_swans_court_position
+			aptitude = { 	court_position = keeper_of_swans_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = keeper_of_swans_court_position
+			aptitude = { 	court_position = keeper_of_swans_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = chief_qadi_court_position
+			aptitude = { 	court_position = chief_qadi_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = chief_qadi_court_position
+			aptitude = { 	court_position = chief_qadi_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = chief_qadi_court_position
+			aptitude = { 	court_position = chief_qadi_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = chief_qadi_court_position
+			aptitude = { 	court_position = chief_qadi_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = chief_qadi_court_position
+			aptitude = { 	court_position = chief_qadi_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = garuda_court_position
+			aptitude = { 	court_position = garuda_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = garuda_court_position
+			aptitude = { 	court_position = garuda_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = garuda_court_position
+			aptitude = { 	court_position = garuda_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = garuda_court_position
+			aptitude = { 	court_position = garuda_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = garuda_court_position
+			aptitude = { 	court_position = garuda_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = court_gardener_court_position
+			aptitude = { 	court_position = court_gardener_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_gardener_court_position
+			aptitude = { 	court_position = court_gardener_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_gardener_court_position
+			aptitude = { 	court_position = court_gardener_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_gardener_court_position
+			aptitude = { 	court_position = court_gardener_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_gardener_court_position
+			aptitude = { 	court_position = court_gardener_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = lady_in_waiting_court_position
+			aptitude = { 	court_position = lady_in_waiting_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = lady_in_waiting_court_position
+			aptitude = { 	court_position = lady_in_waiting_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = lady_in_waiting_court_position
+			aptitude = { 	court_position = lady_in_waiting_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = lady_in_waiting_court_position
+			aptitude = { 	court_position = lady_in_waiting_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = lady_in_waiting_court_position
+			aptitude = { 	court_position = lady_in_waiting_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = court_tutor_court_position
+			aptitude = { 	court_position = court_tutor_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_tutor_court_position
+			aptitude = { 	court_position = court_tutor_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_tutor_court_position
+			aptitude = { 	court_position = court_tutor_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_tutor_court_position
+			aptitude = { 	court_position = court_tutor_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_tutor_court_position
+			aptitude = { 	court_position = court_tutor_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = temple_assistant_position
+			aptitude = { 	court_position = temple_assistant_position value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = temple_assistant_position
+			aptitude = { 	court_position = temple_assistant_position value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = temple_assistant_position
+			aptitude = { 	court_position = temple_assistant_position value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = temple_assistant_position
+			aptitude = { 	court_position = temple_assistant_position value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = temple_assistant_position
+			aptitude = { 	court_position = temple_assistant_position value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = food_taster_court_position
+			aptitude = { 	court_position = food_taster_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = food_taster_court_position
+			aptitude = { 	court_position = food_taster_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = food_taster_court_position
+			aptitude = { 	court_position = food_taster_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = food_taster_court_position
+			aptitude = { 	court_position = food_taster_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = food_taster_court_position
+			aptitude = { 	court_position = food_taster_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = master_of_horse_court_position
+			aptitude = { 	court_position = master_of_horse_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_of_horse_court_position
+			aptitude = { 	court_position = master_of_horse_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_of_horse_court_position
+			aptitude = { 	court_position = master_of_horse_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_of_horse_court_position
+			aptitude = { 	court_position = master_of_horse_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_of_horse_court_position
+			aptitude = { 	court_position = master_of_horse_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = master_of_hunt_court_position
+			aptitude = { 	court_position = master_of_hunt_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_of_hunt_court_position
+			aptitude = { 	court_position = master_of_hunt_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_of_hunt_court_position
+			aptitude = { 	court_position = master_of_hunt_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_of_hunt_court_position
+			aptitude = { 	court_position = master_of_hunt_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_of_hunt_court_position
+			aptitude = { 	court_position = master_of_hunt_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = royal_architect_court_position
+			aptitude = { 	court_position = royal_architect_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = royal_architect_court_position
+			aptitude = { 	court_position = royal_architect_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = royal_architect_court_position
+			aptitude = { 	court_position = royal_architect_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = royal_architect_court_position
+			aptitude = { 	court_position = royal_architect_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = royal_architect_court_position
+			aptitude = { 	court_position = royal_architect_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = high_almoner_court_position
+			aptitude = { 	court_position = high_almoner_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = high_almoner_court_position
+			aptitude = { 	court_position = high_almoner_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = high_almoner_court_position
+			aptitude = { 	court_position = high_almoner_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = high_almoner_court_position
+			aptitude = { 	court_position = high_almoner_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = high_almoner_court_position
+			aptitude = { 	court_position = high_almoner_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = seneschal_court_position
+			aptitude = { 	court_position = seneschal_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = seneschal_court_position
+			aptitude = { 	court_position = seneschal_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = seneschal_court_position
+			aptitude = { 	court_position = seneschal_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = seneschal_court_position
+			aptitude = { 	court_position = seneschal_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = seneschal_court_position
+			aptitude = { 	court_position = seneschal_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = cupbearer_court_position
+			aptitude = { 	court_position = cupbearer_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = cupbearer_court_position
+			aptitude = { 	court_position = cupbearer_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = cupbearer_court_position
+			aptitude = { 	court_position = cupbearer_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = cupbearer_court_position
+			aptitude = { 	court_position = cupbearer_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = cupbearer_court_position
+			aptitude = { 	court_position = cupbearer_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = chief_eunuch_court_position
+			aptitude = { 	court_position = chief_eunuch_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = chief_eunuch_court_position
+			aptitude = { 	court_position = chief_eunuch_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = chief_eunuch_court_position
+			aptitude = { 	court_position = chief_eunuch_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = chief_eunuch_court_position
+			aptitude = { 	court_position = chief_eunuch_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = chief_eunuch_court_position
+			aptitude = { 	court_position = chief_eunuch_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = court_jester_court_position
+			aptitude = { 	court_position = court_jester_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_jester_court_position
+			aptitude = { 	court_position = court_jester_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_jester_court_position
+			aptitude = { 	court_position = court_jester_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_jester_court_position
+			aptitude = { 	court_position = court_jester_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_jester_court_position
+			aptitude = { 	court_position = court_jester_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = court_poet_court_position
+			aptitude = { 	court_position = court_poet_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_poet_court_position
+			aptitude = { 	court_position = court_poet_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_poet_court_position
+			aptitude = { 	court_position = court_poet_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_poet_court_position
+			aptitude = { 	court_position = court_poet_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_poet_court_position
+			aptitude = { 	court_position = court_poet_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = court_musician_court_position
+			aptitude = { 	court_position = court_musician_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_musician_court_position
+			aptitude = { 	court_position = court_musician_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_musician_court_position
+			aptitude = { 	court_position = court_musician_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_musician_court_position
+			aptitude = { 	court_position = court_musician_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_musician_court_position
+			aptitude = { 	court_position = court_musician_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = bodyguard_court_position
+			aptitude = { 	court_position = bodyguard_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = bodyguard_court_position
+			aptitude = { 	court_position = bodyguard_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = bodyguard_court_position
+			aptitude = { 	court_position = bodyguard_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = bodyguard_court_position
+			aptitude = { 	court_position = bodyguard_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = bodyguard_court_position
+			aptitude = { 	court_position = bodyguard_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = champion_court_position
+			aptitude = { 	court_position = champion_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = champion_court_position
+			aptitude = { 	court_position = champion_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = champion_court_position
+			aptitude = { 	court_position = champion_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = champion_court_position
+			aptitude = { 	court_position = champion_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = champion_court_position
+			aptitude = { 	court_position = champion_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = executioner_court_position
+			aptitude = { 	court_position = executioner_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = executioner_court_position
+			aptitude = { 	court_position = executioner_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = executioner_court_position
+			aptitude = { 	court_position = executioner_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = executioner_court_position
+			aptitude = { 	court_position = executioner_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = executioner_court_position
+			aptitude = { 	court_position = executioner_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = court_artificer_court_position
+			aptitude = { 	court_position = court_artificer_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_artificer_court_position
+			aptitude = { 	court_position = court_artificer_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_artificer_court_position
+			aptitude = { 	court_position = court_artificer_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_artificer_court_position
+			aptitude = { 	court_position = court_artificer_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_artificer_court_position
+			aptitude = { 	court_position = court_artificer_court_position	value = 5 } }
+		reference = "court_stars/stars_4.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = court_emissary_position
+			aptitude = { 	court_position = court_emissary_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_emissary_position
+			aptitude = { 	court_position = court_emissary_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_emissary_position
+			aptitude = { 	court_position = court_emissary_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_emissary_position
+			aptitude = { 	court_position = court_emissary_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_emissary_position
+			aptitude = { 	court_position = court_emissary_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = court_librarian_position
+			aptitude = { 	court_position = court_librarian_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_librarian_position
+			aptitude = { 	court_position = court_librarian_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_librarian_position
+			aptitude = { 	court_position = court_librarian_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_librarian_position
+			aptitude = { 	court_position = court_librarian_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_librarian_position
+			aptitude = { 	court_position = court_librarian_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = court_painter_position
+			aptitude = { 	court_position = court_painter_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_painter_position
+			aptitude = { 	court_position = court_painter_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_painter_position
+			aptitude = { 	court_position = court_painter_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_painter_position
+			aptitude = { 	court_position = court_painter_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_painter_position
+			aptitude = { 	court_position = court_painter_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = court_sculptor_position
+			aptitude = { 	court_position = court_sculptor_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_sculptor_position
+			aptitude = { 	court_position = court_sculptor_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_sculptor_position
+			aptitude = { 	court_position = court_sculptor_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_sculptor_position
+			aptitude = { 	court_position = court_sculptor_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_sculptor_position
+			aptitude = { 	court_position = court_sculptor_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = fleet_commander_position
+			aptitude = { 	court_position = fleet_commander_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = fleet_commander_position
+			aptitude = { 	court_position = fleet_commander_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = fleet_commander_position
+			aptitude = { 	court_position = fleet_commander_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = fleet_commander_position
+			aptitude = { 	court_position = fleet_commander_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = fleet_commander_position
+			aptitude = { 	court_position = fleet_commander_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = herald_ambassador_position
+			aptitude = { 	court_position = herald_ambassador_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = herald_ambassador_position
+			aptitude = { 	court_position = herald_ambassador_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = herald_ambassador_position
+			aptitude = { 	court_position = herald_ambassador_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = herald_ambassador_position
+			aptitude = { 	court_position = herald_ambassador_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = herald_ambassador_position
+			aptitude = { 	court_position = herald_ambassador_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = lord_sheriff_position
+			aptitude = { 	court_position = lord_sheriff_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = lord_sheriff_position
+			aptitude = { 	court_position = lord_sheriff_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = lord_sheriff_position
+			aptitude = { 	court_position = lord_sheriff_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = lord_sheriff_position
+			aptitude = { 	court_position = lord_sheriff_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = lord_sheriff_position
+			aptitude = { 	court_position = lord_sheriff_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = master_blacksmith_position
+			aptitude = { 	court_position = master_blacksmith_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_blacksmith_position
+			aptitude = { 	court_position = master_blacksmith_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_blacksmith_position
+			aptitude = { 	court_position = master_blacksmith_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_blacksmith_position
+			aptitude = { 	court_position = master_blacksmith_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_blacksmith_position
+			aptitude = { 	court_position = master_blacksmith_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = pursuivant_of_arms_position
+			aptitude = { 	court_position = pursuivant_of_arms_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = pursuivant_of_arms_position
+			aptitude = { 	court_position = pursuivant_of_arms_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = pursuivant_of_arms_position
+			aptitude = { 	court_position = pursuivant_of_arms_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = pursuivant_of_arms_position
+			aptitude = { 	court_position = pursuivant_of_arms_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = pursuivant_of_arms_position
+			aptitude = { 	court_position = pursuivant_of_arms_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = quartermaster_position
+			aptitude = { 	court_position = quartermaster_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = quartermaster_position
+			aptitude = { 	court_position = quartermaster_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = quartermaster_position
+			aptitude = { 	court_position = quartermaster_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = quartermaster_position
+			aptitude = { 	court_position = quartermaster_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = quartermaster_position
+			aptitude = { 	court_position = quartermaster_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = royal_scourge_position
+			aptitude = { 	court_position = royal_scourge_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = royal_scourge_position
+			aptitude = { 	court_position = royal_scourge_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = royal_scourge_position
+			aptitude = { 	court_position = royal_scourge_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = royal_scourge_position
+			aptitude = { 	court_position = royal_scourge_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = royal_scourge_position
+			aptitude = { 	court_position = royal_scourge_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = spymaster_assistant_position
+			aptitude = { 	court_position = spymaster_assistant_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = spymaster_assistant_position
+			aptitude = { 	court_position = spymaster_assistant_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = spymaster_assistant_position
+			aptitude = { 	court_position = spymaster_assistant_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = spymaster_assistant_position
+			aptitude = { 	court_position = spymaster_assistant_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = spymaster_assistant_position
+			aptitude = { 	court_position = spymaster_assistant_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = stable_master_position
+			aptitude = { 	court_position = stable_master_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = stable_master_position
+			aptitude = { 	court_position = stable_master_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = stable_master_position
+			aptitude = { 	court_position = stable_master_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = stable_master_position
+			aptitude = { 	court_position = stable_master_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = stable_master_position
+			aptitude = { 	court_position = stable_master_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = steward_constable_position
+			aptitude = { 	court_position = steward_constable_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = steward_constable_position
+			aptitude = { 	court_position = steward_constable_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = steward_constable_position
+			aptitude = { 	court_position = steward_constable_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = steward_constable_position
+			aptitude = { 	court_position = steward_constable_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = steward_constable_position
+			aptitude = { 	court_position = steward_constable_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = court_bailiff_position
+			aptitude = { 	court_position = court_bailiff_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_bailiff_position
+			aptitude = { 	court_position = court_bailiff_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_bailiff_position
+			aptitude = { 	court_position = court_bailiff_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_bailiff_position
+			aptitude = { 	court_position = court_bailiff_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_bailiff_position
+			aptitude = { 	court_position = court_bailiff_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = court_apothecary_position
+			aptitude = { 	court_position = court_apothecary_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_apothecary_position
+			aptitude = { 	court_position = court_apothecary_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_apothecary_position
+			aptitude = { 	court_position = court_apothecary_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_apothecary_position
+			aptitude = { 	court_position = court_apothecary_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_apothecary_position
+			aptitude = { 	court_position = court_apothecary_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = grand_winemaker_position
+			aptitude = { 	court_position = grand_winemaker_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = grand_winemaker_position
+			aptitude = { 	court_position = grand_winemaker_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = grand_winemaker_position
+			aptitude = { 	court_position = grand_winemaker_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = grand_winemaker_position
+			aptitude = { 	court_position = grand_winemaker_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = grand_winemaker_position
+			aptitude = { 	court_position = grand_winemaker_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = court_scriber_position
+			aptitude = { 	court_position = court_scriber_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_scriber_position
+			aptitude = { 	court_position = court_scriber_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_scriber_position
+			aptitude = { 	court_position = court_scriber_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_scriber_position
+			aptitude = { 	court_position = court_scriber_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_scriber_position
+			aptitude = { 	court_position = court_scriber_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = master_merchant_position
+			aptitude = { 	court_position = master_merchant_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_merchant_position
+			aptitude = { 	court_position = master_merchant_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_merchant_position
+			aptitude = { 	court_position = master_merchant_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_merchant_position
+			aptitude = { 	court_position = master_merchant_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_merchant_position
+			aptitude = { 	court_position = master_merchant_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = stone_manson_master_position
+			aptitude = { 	court_position = stone_manson_master_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = stone_manson_master_position
+			aptitude = { 	court_position = stone_manson_master_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = stone_manson_master_position
+			aptitude = { 	court_position = stone_manson_master_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = stone_manson_master_position
+			aptitude = { 	court_position = stone_manson_master_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = stone_manson_master_position
+			aptitude = { 	court_position = stone_manson_master_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = master_at_arms_position
+			aptitude = { 	court_position = master_at_arms_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_at_arms_position
+			aptitude = { 	court_position = master_at_arms_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_at_arms_position
+			aptitude = { 	court_position = master_at_arms_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_at_arms_position
+			aptitude = { 	court_position = master_at_arms_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = master_at_arms_position
+			aptitude = { 	court_position = master_at_arms_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+	texture = {
+		trigger = {     has_court_position = foreign_affairs_position
+			aptitude = { 	court_position = foreign_affairs_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = foreign_affairs_position
+			aptitude = { 	court_position = foreign_affairs_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = foreign_affairs_position
+			aptitude = { 	court_position = foreign_affairs_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = foreign_affairs_position
+			aptitude = { 	court_position = foreign_affairs_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = foreign_affairs_position
+			aptitude = { 	court_position = foreign_affairs_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+	
+	texture = {
+		trigger = {     has_court_position = court_philosopher_position
+			aptitude = { 	court_position = court_philosopher_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_philosopher_position
+			aptitude = { 	court_position = court_philosopher_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_philosopher_position
+			aptitude = { 	court_position = court_philosopher_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_philosopher_position
+			aptitude = { 	court_position = court_philosopher_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_philosopher_position
+			aptitude = { 	court_position = court_philosopher_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+	
+	texture = {
+		trigger = {     has_court_position = barrister_official_position
+			aptitude = { 	court_position = barrister_official_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = barrister_official_position
+			aptitude = { 	court_position = barrister_official_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = barrister_official_position
+			aptitude = { 	court_position = barrister_official_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = barrister_official_position
+			aptitude = { 	court_position = barrister_official_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = barrister_official_position
+			aptitude = { 	court_position = barrister_official_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+	
+	texture = {
+		trigger = {     has_court_position = pillage_school_position
+			aptitude = { 	court_position = pillage_school_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = pillage_school_position
+			aptitude = { 	court_position = pillage_school_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = pillage_school_position
+			aptitude = { 	court_position = pillage_school_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = pillage_school_position
+			aptitude = { 	court_position = pillage_school_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = pillage_school_position
+			aptitude = { 	court_position = pillage_school_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+
+	texture = {
+		trigger = {     has_court_position = court_mathematician_position
+			aptitude = { 	court_position = court_mathematician_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_mathematician_position
+			aptitude = { 	court_position = court_mathematician_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_mathematician_position
+			aptitude = { 	court_position = court_mathematician_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_mathematician_position
+			aptitude = { 	court_position = court_mathematician_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_mathematician_position
+			aptitude = { 	court_position = court_mathematician_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+
+
+}
+
+

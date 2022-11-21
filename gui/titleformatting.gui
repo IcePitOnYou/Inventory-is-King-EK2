@@ -1,0 +1,23 @@
+textformatting = {
+	format = {
+		name = tier0 #baron
+		format = "color:{0.55, 0.27, 0.0}" #darkorange4
+	}
+	format = {
+		name = tier1 #count
+		format == "color:{0.4,0.61,0.3}" 
+	}
+	format = {
+		name = tier2 #duke
+		format = "color:{0.51, 0.61, 0.65}"
+	}
+	format = {
+		name = tier3 #king
+		format = "color:{0.80, 0.68, 0.0}" #gold3
+	}
+	format = {
+		name = tier4 #emperor
+		format = "color:{0.58, 0.40, 0.88}" #almost  mediumpurple 
+	}
+
+}

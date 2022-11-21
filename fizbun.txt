@@ -1,0 +1,7 @@
+Ketaros made a nice thing
+I threw this together fast because I wanted to have this in EK2 for the upcoming MP sesh.
+
+Now it should work better with EK2.
+Added arcana back next to prowess
+
+Thank you Ketaros, impressive work.

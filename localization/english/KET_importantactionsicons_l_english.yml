@@ -1,0 +1,168 @@
+﻿l_english:
+ 
+ ### ABOUT ARTIFFACTS
+ action_can_reforge_artifact_combined_group_name:0 "@artifact_icon! Some of your artifacts have low Durability"
+ action_can_reforge_artifact:0 "@artifact_icon! [artifact.GetNameNoTooltip] has low Durability"
+
+ ### ABOUT LAND/TERRITORY
+ action_title_lost_from_realm_on_succession:0 "@land_icon! Your realm will lose land if Vassal dies"
+ action_title_lost_from_realm_on_succession_combined_group_label:1 "@land_icon! Realm will lose land if Vassals die"
+ action_title_lost_from_realm_on_succession_combined_group_name:0 "@land_icon! Realm will lose land if Vassals die"
+ 
+ action_title_lost_from_realm_on_foreign_ruler_succession:0 "@land_icon! Your realm will lose land if Vassal inherits foreign title"
+ action_title_lost_from_realm_on_foreign_ruler_succession_combined_group_label:0 "@land_icon! Realm will lose land if Vassals inherit foreign titles"
+ action_title_lost_from_realm_on_foreign_ruler_succession_combined_group_name:0 "@land_icon! Realm will lose land if Vassals inherit foreign titles"
+
+ ### ABOUT VASSALS
+ action_powerful_vassal_not_on_council:2 "@goblet_icon! Powerful Vassal expects a Council Position"
+ action_powerful_vassal_not_on_council_combined_group_label:2 "@goblet_icon! Powerful Vassals expect Council Positions"
+ action_powerful_vassal_not_on_council_combined_group_name:1 "@goblet_icon! [powerful_vassals|E] expect [council|E] Positions"
+ action_powerful_vassal_not_on_council_label:3 "@goblet_icon! Powerful Vassal expects a Council Position"
+
+ ### ABOUT VASSALIZATION
+ action_can_vassalize_label:0 "@heir_icon! You can Vassalize [recipient.GetShortUINameNoTooltip]"
+ action_can_vassalize:0 "@heir_icon! Neighbor can be Vassalized"
+ action_can_vassalize_combined_group_label:0 "@heir_icon! Neighbors can be Vassalized"
+ 
+ ### ABOUT WARS
+ action_has_any_display_cb_on:1 "@war_icon! You can declare [war|E] on [recipient.GetShortUINameNoTooltip]"
+ action_has_any_display_cb_on_combined_group_label:2 "@war_icon! You can declare wars"
+ action_has_any_display_cb_on_combined_group_name:1 "@war_icon! You can declare multiple [wars|E]"
+ action_can_call_ally:1 "@war_icon! You can call Ally"
+ action_can_call_ally_combined_group_label:3 "@war_icon! You can call Allies to war"
+ action_can_call_ally_combined_group_name:1 "@war_icon! You can call Allies"
+ action_can_call_ally_label:2 "@war_icon! You can call on your Ally [recipient.GetShortUINameNoTooltip] to War"
+ action_can_call_house_member_combined_group_label:3 "@war_icon! You can call House members"
+ action_can_call_house_member_combined_group_name:2 "@war_icon! You can call House members"
+ action_can_call_house_member_label:2 "@war_icon! ou can call your House member [recipient.GetShortUINameNoTooltip] to War"
+ action_has_any_display_cb_on:1 "@war_icon! You can declare [war|E] on [recipient.GetShortUINameNoTooltip]"
+ action_has_any_display_cb_on_combined_group_label:2 "@war_icon! You can declare wars"
+ action_has_any_display_cb_on_combined_group_name:1 "@war_icon! You can declare multiple [wars|E]"
+ action_has_any_display_cb_on_label:1 "@war_icon! You can declare war on [recipient.GetShortUINameNoTooltip]"
+ action_can_call_dynasty_member:2 "@war_icon! You can call a Dynasty member"
+ action_can_call_dynasty_member_combined_group_label:3 "@war_icon! You can call Dynasty members"
+ action_can_call_dynasty_member_combined_group_name:2 "@war_icon! You can call Dynasty members"
+ action_can_call_dynasty_member_label:2 "@war_icon! You can call your Dynasty member [recipient.GetShortUINameNoTooltip]"
+ action_can_call_dynasty_member_combined_label:0 "[recipient.GetUINameNoTooltip]"
+ 
+ ### ABOUT TITLES
+ action_can_create_title_combined_group_label:1 "@title_icon! Titles can be created"
+ action_can_create_title_combined_group_name:0 "@title_icon! [titles|E] can be created"
+ action_in_line_of_succession_for_title:1 "@title_icon! [actor.GetPlaceInSuccession(landed_title)|O] in line to inherit the [landed_title.GetNameNoTooltip]"
+ action_in_line_of_succession_for_title_combined_group_label:2 "@title_icon! You are in line to inherit titles"
+ action_in_line_of_succession_for_title_combined_group_name:1 "@title_icon! You are in line to inherit multiple [titles|E]"
+ action_can_create_title_label:1 "@title_icon! You can create the [landed_title.GetNameNoTooltip]"
+ action_heir_in_line_of_succession_for_title:1 "@title_icon! Heir [actor.GetPlaceInSuccession(landed_title)|O] in line to inherit [landed_title.GetNameNoTierNoTooltip]"
+ action_heir_in_line_of_succession_for_title_combined_group_label:1 "@title_icon! Heir in line to inherit titles"
+ action_heir_in_line_of_succession_for_title_combined_group_name:0 "@title_icon! Heir in line to inherit multiple [titles|E]"
+ 
+ ### ABOUT ALLIANCES
+ action_can_propose_alliance_to_family_member:0 "@alliance_icon! You can Negotiate Alliance"
+ action_can_propose_alliance_to_family_member_combined_group_label:0 "@alliance_icon! You can Negotiate Alliances"
+ action_can_propose_alliance_to_family_member_label:0 "@alliance_icon! You can Negotiate an Alliance with [recipient.GetShortUINameNoTooltip]"
+
+ ### ABOUT PRISON
+ action_can_lawfully_imprison_combined_group_label:1 "@prison_icon! Can imprison criminals"
+ action_can_lawfully_imprison_combined_group_name:0 "@prison_icon! Can imprison criminals"
+ action_can_lawfully_imprison:0 "@prison_icon! Criminal can be imprisoned"
+ action_can_lawfully_imprison_label:1 "@prison_icon! You can lawfully imprison [recipient.GetShortUINameNoTooltip]"
+
+ ### ABOUT GOLD
+ action_can_demand_payment:0 "@gold_icon! You can Demand Payment"
+ action_can_demand_payment_combined_group_label:0 "@gold_icon! You can Demand Payments"
+ action_can_demand_payment_label:0 "@gold_icon! You can Demand Payment from [recipient.GetShortUINameNoTooltip]"
+ action_can_ransom:0 "@gold_icon! Prisoner can be ransomed"
+ action_can_ransom_combined_group_label:0 "@gold_icon! Prisoners can be ransomed"
+ action_can_ask_hof_for_money:0 "@gold_icon! You can ask your Head of Faith for Gold"
+ action_can_ransom_label:0 "@gold_icon! You can ransom [recipient.GetShortUINameNoTooltip]"
+
+ ### ABOUT ELECTIONS
+ action_title_election:0 "@election_icon! Active Election in [landed_title.GetNameNoTooltip]"
+ action_title_election_combined_group_label:0 "@election_icon! Active Elections"
+ action_title_election_combined_group_name:0 "@election_icon! Active Elections can be Previewed"
+ action_title_election_label:0 "@election_icon! Active Election in [landed_title.GetNameNoTooltip]"
+
+ ### ABOUT GUARDIANS
+ action_can_assign_guardian:0 "@guardian_icon! Guardian can be assigned"
+ action_can_assign_guardian_combined_group_label:2 "@guardian_icon! Children lack Guardians"
+ action_can_assign_guardian_label:1 "@guardian_icon! You can designate a guardian for [recipient.GetShortUINameNoTooltip]"
+
+ ### ABOUT COURT POSITIONS
+ action_can_hire_court_physician:0 "@physician_icon! Hire a Court Physician"
+ action_can_hire_court_physician_label:0 "@physician_icon! You can hire a Court Physician"
+
+ ### ABOUT DUEL
+ action_can_challenge_to_single_combat_label:0 "@duel_icon! You can challenge [recipient.GetShortUINameNoTooltip] to a $game_concept_trial_by_combat$"
+ action_can_challenge_to_single_combat:0 "@duel_icon! Distant Criminal can be Challenged"
+ action_can_challenge_to_single_combat_label:0 "@duel_icon! You can challenge [recipient.GetShortUINameNoTooltip] to a $game_concept_trial_by_combat$"
+ action_can_challenge_to_single_combat_combined_group_label:0 "@duel_icon! Can challenge criminals to $game_concept_trial_by_combat$"
+ action_can_challenge_to_single_combat_combined_group_name:0 "@duel_icon! Can challenge criminals to $game_concept_trial_by_combat$"
+ 
+ ### MISC
+ action_can_take_concubine:0 "@concubine_icon! Take Concubine"
+ action_can_create_head_of_faith_title:0 "@faith_icon! You can create the [head_of_faith|E] [title|E]"
+ action_can_create_head_of_faith_title_label:0 "@faith_icon! You can create the [head_of_faith|E] [title|E]"
+ action_not_endorsed_by_realm_priest:1 "@notendorsed_icon! Not endorsed by your [Concept( 'realm_priest', GetPlayer.GetCouncillorPosition( 'councillor_court_chaplain' ).GetPositionName )|E]"
+ action_not_endorsed_by_realm_priest_label:2 "@notendorsed_icon! Not endorsed by your [GetPlayer.GetCouncillorPosition( 'councillor_court_chaplain' ).GetPositionName ]"
+ action_grant_vassal_to_rightful_liege:0 "@transfer_icon! Can grant Vassal to Rightful Liege"
+ action_grant_vassal_to_rightful_liege_combined_group_label:0 "@transfer_icon! Can grant Vassals to Rightful Liege"
+ action_grant_vassal_to_rightful_liege_label:0 "@transfer_icon! You can transfer [secondary_actor.GetNameNoTooltip] to [recipient.GetNameNoTooltip]"
+ action_disabled_building:0 "Disabled Building in [landed_title.GetNameNoTierNoTooltip]"
+ action_disabled_building_label:0 "@architect_icon! Disabled Building in [landed_title.GetNameNoTierNoTooltip]"
+ action_disabled_building_combined_group_label:2 "@architect_icon! Disabled Buildings"
+ action_disabled_building_combined_group_name:1 "@architect_icon! Disabled Buildings"
+ action_in_debt:0 "@debt_icon! In Debt"
+ action_in_debt_label:1 "@debt_icon! You are in Debt"
+ action_send_child_to_university:0 "@university_icon! Send Child to University"
+ action_send_child_to_university_label:0 "@university_icon! Send Child to University"
+ action_not_enough_knights:1 "@knight_icon! Few $knight_culture_player_plural_no_tooltip$"
+ action_not_enough_knights_label:2 "@knight_icon! Few $knight_culture_player_plural_no_tooltip$"
+ 
+### FROM OMNISCIENT
+
+ action_set_education_child_label:0 "@books_icon! [recipient.GetRelationToString( GetPlayer )] [recipient.GetShortUINameNoTooltip] can choose an Education Focus"
+ 
+ action_demand_conversion_vassal_combined_group_label:0 "@religious_icon! Some of your vassals can get converted"
+ action_demand_conversion_courtier_combined_group_label:0 "@religious_icon! Some of your courtiers can get converted"
+ action_demand_conversion_house_combined_group_label:0 "@religious_icon! Family member can get converted"
+ action_demand_conversion_courtier_label:0 "@religious_icon! [recipient.GetRelationToString( GetPlayer )] [recipient.GetShortUINameNoTooltip] ([recipient.GetFaith.GetName]) can get converted"
+ 
+ action_should_raid_combined_group_label:0 "@raid_icon! Raid Report: Possible Targets"
+ action_should_raid_combined_label:0 "You should raid the [landed_title.GetName]!"
+ action_should_raid_combined_group_name:0 "@raid_icon! You have GREAT Raiding Targets!"
+ action_should_raid:0 "@raid_icon! Good Raiding Target!"
+ action_should_raid_combined_label:0 "@raid_icon! We should raid the [landed_title.GetName]!"
+ action_should_raid_label:0 "@raid_icon! We should raid the [landed_title.GetName]!"
+ 
+ action_close_family_can_marry_combined_group_name:0 "@marriage_icon! Some close family members can marry"
+ action_close_family_can_marry_combined_group_label:1 "@marriage_icon! Some family members can marry"
+ action_courtier_can_marry_combined_group_name:0 "@marriage_icon! Some of your courtiers can marry"
+ action_courtier_can_marry_combined_group_label:1 "@marriage_icon! Some of your courtiers can marry"
+ action_betrothed_can_marry:0 "@marriage_icon! Betrothed can Marry"
+ action_betrothed_can_marry_label:0 "@marriage_icon! Betrothed can Marry"
+ action_court_family_can_marry_combined_group_label:1 "@marriage_icon! Family members can get married"
+ action_court_family_can_marry:0 "@marriage_icon! [actor.Custom2('RelationToMe', recipient)|U] [recipient.GetShortUINameNoTooltip] ([recipient.GetAge]) can get married"
+ action_close_family_can_marry:0 "@marriage_icon! [recipient.GetShortUINameNoTooltip] can marry"
+ action_courtier_can_marry:0 "@marriage_icon! [actor.Custom2('RelationToMe', recipient)|U] [recipient.GetShortUINameNoTooltip] ([recipient.GetAge]) can get married"
+ 
+ action_low_control_in_county:0 "@control_icon! Low county control in [landed_title.GetNameNoTier]"
+ action_low_control_in_county_combined_group_label:1 "@control_icon! Low control in counties"
+ action_low_control_in_county_combined_group_name:0 "@control_icon! Low control in multiple counties"
+ action_should_increase_control_combined_group_label:0 "@control_icon! Control Report: Low Control Counties"
+ action_should_increase_control_combined_group_name:0 "@control_icon! Increase Control"
+ action_should_increase_control_label:0 "@control_icon! You should increase control in [landed_title.GetNameNoTier]"
+
+ action_set_education_child_combined_group_label:0 "@books_icon! Children lack Education Focus"
+ action_set_education_child_label:0 "@books_icon! [recipient.GetRelationToString( GetPlayer )] [recipient.GetShortUINameNoTooltip] can choose an Education Focus"
+ 
+## REPORTS
+ 
+ action_court_guests:0 "@bag_icon! [recipient.GetShortUINameNoTooltip] is visiting your court."
+ action_court_guests_combined_group_name:0 "@bag_icon! Guests Report: Guests Visiting"
+
+ action_sick_courtiers:0 "@redcross_icon! [recipient.GetShortUINameNoTooltip] is sick at court."
+ action_sick_courtiers_combined_group_name:0 "@redcross_icon! Health Report: Sick Courtiers"
+
+ action_find_wonderful_artisans:0 "@anvil_icon! Artisans Report: Inspired Artisans" 
+ action_find_wonderful_artisans_combined_group_name:0 "@anvil_icon! Wonderful Artisans found!"
+

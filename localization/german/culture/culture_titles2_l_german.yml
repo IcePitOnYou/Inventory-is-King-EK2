@@ -1,0 +1,1019 @@
+﻿l_german:
+ 
+ #############################################
+#General names:
+ baron:0 "Baron"
+ baron_female:0 "Baronin"
+ barony:0 "Baronie"
+ count:0 "#P Graf#!"
+ count_female:0 "#P Gräfin#!"
+ county:0 "Grafschaft"
+ duke:0 "#E Herzog#!"
+ duke_female:0 "Herzogin"
+ duchy:0 "Herzogtum"
+ king:0 "#Y König#!"
+ king_female:0 "#Y Königin#!"
+ kingdom:0 "Königreich"
+ emperor:0 "#D Kaiser#!"
+ emperor_female:0 "#D Kaiserin#!"
+ empire:0 "Kaiserreich"
+ 
+ baron_plural:0 "Barone"
+ count_plural:0 "#P Grafen#!"
+ duke_plural:0 "#E Herzöge#!"
+ king_plural:0 "#Y Könige#!"
+ emperor_plural:0 "#D Kaiser#!"
+ unlanded_plural:0 "Landlose"
+ 
+ #Default Feudal tiers 
+ #Default Republic tiers
+ #Default Theocracy tiers
+ #Default Clan tiers
+ #Default Tribal tiers
+ #Default Imperial tiers
+ #Default Nomadic Clan tiers
+ #Default Mercenary tiers
+ #Default Holy Order tiers
+ #Default Viceroyalty tiers
+ 
+ 
+ #Default Feudal tiers 
+ baron_feudal_male:0 "Baron"
+ baron_feudal_female:0 "Baronin"
+ barony_feudal:0 "Baronie"
+ count_feudal_male:0 "#P Graf#!"
+ count_feudal_female:0 "#P Gräfin#!"
+ county_feudal:0 "Grafschaft"
+ duke_feudal_male:0 "#E Herzog#!"
+ duke_feudal_female:0 "#E Herzogin#!"
+ duchy_feudal:0 "Herzogtum"
+ duke_feudal_independent:0 "#E Kleinkönig#!"
+ duke_feudal_independent_female:0 "#E Kleinkönigin#!"
+ duchy_feudal_independent:0 "Kleinkönigreich"
+ king_feudal_male:0 "#Y König#!"
+ king_feudal_female:0 "#Y Königin#!"
+ kingdom_feudal:0 "Königreich"
+ emperor_feudal_male:0 "#D Kaiser#!"
+ emperor_feudal_female:0 "#D Kaiserin#!"
+ empire_feudal:0 "Kaiserreich"
+ 
+ #Default Republic tiers
+ baron_republic_male:0 "Bürgermeister"
+ baron_republic_female:0 "Bürgermeisterin"
+ barony_republic:0 "Stadt"
+ count_republic_male:0 "#P Oberbürgermeister#!"
+ count_republic_female:0 "#P Oberbürgermeisterin#!"
+ county_republic:0 "Großstadt"
+ duke_republic_male:0 "#E Großbürgermeister#!"
+ duke_republic_female:0 "#EGroßbürgermeisterin#!"
+ duchy_republic:0 "Republik"
+ king_republic_male:0 "#Y Hochfürst#!"
+ king_republic_female:0 "#Y Hochfürstin#!"
+ kingdom_republic:0 "Durchlauchtigste Republik"
+ emperor_republic_male:0 "#D Großfürst#!"
+ emperor_republic_female:0 "#D Großfürstin#!"
+ empire_republic:0 "Großfürstentum"
+ 
+ #Default Theocracy tiers
+ baron_theocracy_male:0 "Priester"
+ baron_theocracy_female:0 "Priesterin"
+ barony_theocracy:0 "Tempel"
+ count_theocracy_male:0 "#P Hohepriester#!"
+ count_theocracy_female:0 "#P Hohepriesterin#!"
+ county_theocracy:0 "Großtempel"
+ duke_theocracy_male:0 "#E Erzpriester#!"
+ duke_theocracy_female:0 "#E Erzpriesterin#!"
+ duchy_theocracy:0 "Theokratie"
+ king_theocracy_male:0 "#Y Großpriester#!"
+ king_theocracy_female:0 "#Y Großpriesterin#!"
+ kingdom_theocracy:0 "Großtheokratie"
+ emperor_theocracy_male:0 "#D Gottkaiser#!"
+ emperor_theocracy_female:0 "#D Gottkaiserin#!"
+ empire_theocracy:0 "Heiliges Reich"
+ 
+ #Default Clan tiers
+ baron_clan_male:0 "Oberhaupt"
+ baron_clan_female:0 "Oberhaupt"
+ barony_clan:0 "Stamm"
+ count_clan_male:0 "#P Häuptling#!"
+ count_clan_female:0 "#P Häuptling#!"
+ county_clan:0 "Häuptlingstum"
+ duke_clan_male:0 "#E Oberhäuptling#!"
+ duke_clan_female:0 "#E Oberhäuptling#!"
+ duchy_clan:0 "Oberhäuptlingstum"
+ king_clan_male:0 "#Y Patriarch#!"
+ king_clan_female:0 "#Y Matriarchin#!"
+ kingdom_clan:0 "Clan"
+ emperor_clan_male:0 "#D Großpatriarch#!"
+ emperor_clan_female:0 "#D Großmatriarchin#!"
+ empire_clan:0 "Großclan"
+ 
+ #Default Tribal tiers
+ baron_tribal_male:0 "Oberhaupt"
+ baron_tribal_female:0 "Oberhaupt"
+ barony_tribal:0 "Stamm"
+ count_tribal_male:0 "#P Häuptling#!"
+ count_tribal_female:0 "#P Häuptling#!"
+ county_tribal:0 "Häuptlingstum"
+ duke_tribal_male:0 "#E Oberhäuptling#!"
+ duke_tribal_female:0 "#E Oberhäuptling#!"
+ duchy_tribal:0 "Oberhäuptlingstum"
+ king_tribal_male:0 "#Y König#!"
+ king_tribal_female:0 "#Y Königin#!"
+ kingdom_tribal:0 "Königreich"
+ emperor_tribal_male:0 "#D Hochkönig#!"
+ emperor_tribal_female:0 "#D Hochkönigin#!"
+ empire_tribal:0 "Hochkönigreich"
+ 
+ #Default Mercenary tiers
+ baron_mercenary_male:0 "Leutnant"
+ baron_mercenary_female:0 "Leutnantin"
+ barony_mercenary:0 "Trupp"
+ count_mercenary_male:0 "#P Konstabler#!"
+ count_mercenary_female:0 "#P Konstablerin#!"
+ county_mercenary:0 "Schar"
+ duke_mercenary_male:0 "#E Hauptmann#!"
+ duke_mercenary_female:0 "#E Hauptmann#!"
+ duchy_mercenary:0 "Kompanie"
+ king_mercenary_male:0 "#Y General#!"
+ king_mercenary_female:0 "#Y Generalin#!"
+ kingdom_mercenary:0 "Armee"
+ emperor_mercenary_male:0 "#D Großgeneral#!"
+ emperor_mercenary_female:0 "#D Großgeneralin#!"
+ empire_mercenary:0 "Großarmada"
+ 
+ #Default Holy Order tiers
+ baron_holy_order_male:0 "Sergeant"
+ baron_holy_order_female:0 "Sergeant"
+ barony_holy_order:0 "Kapitel"
+ count_holy_order_male:0 "#P Meister#!"
+ count_holy_order_female:0 "#P Meisterin#!"
+ county_holy_order:0 "Schar"
+ duke_holy_order_male:0 "#E Großmeister#!"
+ duke_holy_order_female:0 "#E Großmeisterin#!"
+ duchy_holy_order:0 "Orden"
+ king_holy_order_male:0 "#Y Großmeister#!"
+ king_holy_order_female:0 "#Y Großmeisterin#!"
+ kingdom_holy_order:0 "Heiliger Orden"
+ emperor_holy_order_male:0 "#D Großmeister#!"
+ emperor_holy_order_female:0 "#D Großmeisterin#!"
+ empire_holy_order:0 "Hochheiliger Orden"
+ 
+# Default Faction Leader
+ faction_leader_male:0 "Anführer"
+ faction_leader_female:0 "Anführerin"
+ 
+##############################################
+#Theocracy titles, religious (group) localization.
+ 
+# Bon 
+# Buddhism
+# Christianity
+# Dualism
+# Germanic
+# Hellenism
+# Hinduism
+# Islam
+# Jainism
+# Judaism
+# Magyarism
+# Paganism
+# Baltic
+# Slavic 
+# Finno-Ugric
+# Taoism
+# Tengrism
+# West African 
+# West African Bori 
+# West African Roog 
+# Zoroastrianism
+# Zunism
+ 
+# Bon 
+ baron_theocracy_male_bon_religion:0 "Priester"
+ baron_theocracy_female_bon_religion:0 "Priesterin"
+ barony_theocracy_bon_religion:0 "Vihara"
+ count_theocracy_male_bon_religion:0 "#P Hohepriester#!"
+ count_theocracy_female_bon_religion:0 "#P Hohepriesterin#!"
+ county_theocracy_bon_religion:0 "Großvihara"
+ duchy_theocracy_bon_religion:0 "Theokratie"
+ king_theocracy_male_bon_religion:0 "#Y Großpriester#!"
+ king_theocracy_female_bon_religion:0 "#Y Großpriesterin#!"
+ kingdom_theocracy_bon_religion:0 "Großtheokratie"
+ emperor_theocracy_male_bon_religion:0 "#D Samrat#!"
+ emperor_theocracy_female_bon_religion:0 "#D Samradschni#!"
+ empire_theocracy_bon_religion:0 "Heilige Übereinkunft"
+ 
+# Buddhism
+ baron_theocracy_male_buddhism_religion:0 "Bhikkhu"
+ baron_theocracy_female_buddhism_religion:0 "Bhikkhu"
+ count_theocracy_male_buddhism_religion:0 "#P Bhikkhu#!"
+ count_theocracy_female_buddhism_religion:0 "#P Bhikkhu#!"
+ duke_theocracy_male_buddhism_religion:0 "#E Bhikkhu#!"
+ duke_theocracy_female_buddhism_religion:0 "#E Bhikkhu#!"
+ king_theocracy_male_buddhism_religion:0 "#Y Bhikkhu#!"
+ king_theocracy_female_buddhism_religion:0 "#Y Bhikkhu#!"
+ 
+# Christianity
+ baron_theocracy_male_christianity_religion:0 "Bischof"
+ baron_theocracy_female_christianity_religion:0 "Bischöfin"
+ barony_theocracy_christianity_religion:0 "Bistum"
+ count_theocracy_male_christianity_religion:0 "#P Fürstbischof#!"
+ count_theocracy_female_christianity_religion:0 "#P Fürstbischöfin#!"
+ county_theocracy_christianity_religion:0 "Fürstbistum"
+ duke_theocracy_male_christianity_religion:0 "#E Fürsterzbischof#!"
+ duke_theocracy_female_christianity_religion:0 "#E Fürsterzbischöfin#!"
+ duchy_theocracy_christianity_religion:0 "Fürsterzbistum"
+ king_theocracy_male_christianity_religion:0 "#Y Priesterkönig#!"
+ king_theocracy_female_christianity_religion:0 "#Y Priesterkönigin#!"
+ kingdom_theocracy_christianity_religion:0 "Gesalbtes Königreich"
+ emperor_theocracy_male_christianity_religion:0 "#D Priesterkaiser#!"
+ emperor_theocracy_female_christianity_religion:0 "#D Priesterkaiserin#!"
+ empire_theocracy_christianity_religion:0 "Reichskirche"
+ 
+# Dualism
+#Same as Christianity
+ 
+# Germanic
+ baron_theocracy_male_germanic_religion:0 "Gode"
+ baron_theocracy_female_germanic_religion:0 "Godin"
+ barony_theocracy_germanic_religion:0 "Tempel"
+ count_theocracy_male_germanic_religion:0 "#P Tempelgode#!"
+ count_theocracy_female_germanic_religion:0 "#P Tempelgodin#!"
+ county_theocracy_germanic_religion:0 "Großtempel"
+ king_theocracy_male_germanic_religion:0 "#Y Reichsgode#!"
+ king_theocracy_female_germanic_religion:0 "#Y Reichsgodin#!"
+ emperor_theocracy_male_germanic_religion:0 "#D Kjarrgode#!"
+ emperor_theocracy_female_germanic_religion:0 "#D Kjarrgodin#!"
+ 
+# Hellenism
+ baron_theocracy_male_hellenism_religion:0 "Flamen"
+ baron_theocracy_female_hellenism_religion:0 "Vestalin"
+ count_theocracy_male_hellenism_religion:0 "#P Hochfetialis#!"
+ count_theocracy_female_hellenism_religion:0 "#P Hochvestalin#!"
+ duke_theocracy_male_hellenism_religion:0 "#E Pontifex#!"
+ duke_theocracy_female_hellenism_religion:0 "#E Pontifex#!"
+ duchy_theocracy_hellenism_religion:0 "Pontificium"
+ king_theocracy_male_hellenism_religion:0 "#Y Orakel#!"
+ king_theocracy_female_hellenism_religion:0 "#Y Sibylle#!"
+ emperor_theocracy_male_hellenism_religion:0 "#D Großorakel#!"
+ emperor_theocracy_female_hellenism_religion:0 "#D Großsibylle#!"
+ 
+# Hinduism
+ baron_theocracy_male_hinduism_religion:0 "Pujari"
+ baron_theocracy_female_hinduism_religion:0 "Pujari"
+ barony_theocracy_hinduism_religion:0 "Mandir"
+ count_theocracy_male_hinduism_religion:0 "#P Pujari#!"
+ count_theocracy_female_hinduism_religion:0 "#P Pujari#!"
+ county_theocracy_hinduism_religion:0 "Großmandir"
+ duke_theocracy_male_hinduism_religion:0 "#E Pujari#!"
+ duke_theocracy_female_hinduism_religion:0 "#E Pujari#!"
+ king_theocracy_male_hinduism_religion:0 "#Y Pujari#!"
+ king_theocracy_female_hinduism_religion:0 "#Y Pujari#!"
+ 
+# Islam
+ baron_theocracy_male_islam_religion:0 "Mufti"
+ baron_theocracy_female_islam_religion:0 "Mufti"
+ barony_theocracy_islam_religion:0 "Moschee"
+ count_theocracy_male_islam_religion:0 "#P Scheich#!"
+ count_theocracy_female_islam_religion:0 "#P Scheicha#!"
+ county_theocracy_islam_religion:0 "Scheichtum"
+ duke_theocracy_male_islam_religion:0 "#E Großmufti#!"
+ duke_theocracy_female_islam_religion:0 "#E Großmufti#!"
+ duchy_theocracy_islam_religion:0 "Großmoschee"
+ king_theocracy_male_islam_religion:0 "#Y Kalif#!"
+ king_theocracy_female_islam_religion:0 "#Y Kalifa#!"
+ kingdom_theocracy_islam_religion:0 "Kalifat"
+ emperor_theocracy_male_islam_religion:0 "#D Großkalif#!"
+ emperor_theocracy_female_islam_religion:0 "#D Großkalifa#!"
+ empire_theocracy_islam_religion:0 "Großkalifat"
+ 
+# Yazidi 
+ baron_theocracy_male_yazidi_religion:0 "Kochek"
+ baron_theocracy_female_yazidi_religion:0 "$baron_theocracy_male_yazidi_religion$"
+ barony_theocracy_yazidi_religion:0 "Schrein"
+ count_theocracy_male_yazidi_religion:0 "#P Peshimam#!"
+ count_theocracy_female_yazidi_religion:0 "P $count_theocracy_male_yazidi_religion$#!"
+ county_theocracy_yazidi_religion:0 "Tempel"
+ duke_theocracy_male_yazidi_religion:0 "#E Pîr#!"
+ duke_theocracy_female_yazidi_religion:0 "#E $duke_theocracy_male_yazidi_religion$#!"
+ duchy_theocracy_yazidi_religion:0 "Großtempel"
+ king_theocracy_male_yazidi_religion:0 "#Y Scheich#!"
+ king_theocracy_female_yazidi_religion:0 "#Y $king_theocracy_male_yazidi_religion$#!"
+ kingdom_theocracy_yazidi_religion:0 "Scheichtum"
+ emperor_theocracy_male_yazidi_religion:0 "#D Baba Scheich#!"
+ emperor_theocracy_female_yazidi_religion:0 "#D $emperor_theocracy_male_yazidi_religion$#!"
+ empire_theocracy_yazidi_religion:0 "Baba-Scheichtum"
+ 
+# Jainism
+ baron_theocracy_male_jainism_religion:0 "Nirgrantha"
+ baron_theocracy_female_jainism_religion:0 "Nirgrantha"
+ barony_theocracy_jainism_religion:0 "Derasar"
+ count_theocracy_male_jainism_religion:0 "#P Nirgrantha#!"
+ count_theocracy_female_jainism_religion:0 "#P Nirgrantha#!"
+ county_theocracy_jainism_religion:0 "Großderasar"
+ duke_theocracy_male_jainism_religion:0 "#E Nirgrantha#!"
+ duke_theocracy_female_jainism_religion:0 "#E Nirgrantha#!"
+ king_theocracy_male_jainism_religion:0 "#Y Nirgrantha#!"
+ king_theocracy_female_jainism_religion:0 "#Y Nirgrantha#!"
+ 
+# Judaism
+ baron_theocracy_male_judaism_religion:0 "Rabbi"
+ baron_theocracy_female_judaism_religion:0 "Rabbi"
+ barony_theocracy_judaism_religion:0 "Tempel"
+ count_theocracy_male_judaism_religion:0 "#P Kohen#!"
+ count_theocracy_female_judaism_religion:0 "#P Kohen#!"
+ county_theocracy_judaism_religion:0 "Großtempel"
+ duke_theocracy_male_judaism_religion:0 "#E Rabban#!"
+ duke_theocracy_female_judaism_religion:0 "#E Rabban#!"
+ duchy_theocracy_judaism_religion:0 "Theokratie"
+ king_theocracy_male_judaism_religion:0 "#Y Nasi#!"
+ king_theocracy_female_judaism_religion:0 "#Y Nasi#!"
+ kingdom_theocracy_judaism_religion:0 "Großtheokratie"
+ emperor_theocracy_male_judaism_religion:0 "#D Großrichter#!"
+ emperor_theocracy_female_judaism_religion:0 "#D Großrichterin#!"
+ empire_theocracy_judaism_religion:0 "Heiliges Reich"
+ 
+# Magyarism
+ count_theocracy_male_magyarism_religion:0 "#P Táltos#!"
+ count_theocracy_female_magyarism_religion:0 "#P Táltos#!"
+ duke_theocracy_male_magyarism_religion:0 "#E Hochtáltos#!"
+ duke_theocracy_female_magyarism_religion:0 "#E Hochtáltos#!"
+ king_theocracy_male_magyarism_religion:0 "#Y Großtáltos#!"
+ king_theocracy_female_magyarism_religion:0 "#Y Großtáltos#!"
+ emperor_theocracy_male_magyarism_religion:0 "DGottkaiser#!"
+ emperor_theocracy_female_magyarism_religion:0 "#DGottkaiserin#!"
+ 
+# Paganism
+ baron_theocracy_male_paganism_religion:0 "Schamane"
+ baron_theocracy_female_paganism_religion:0 "Schamanin"
+ barony_theocracy_paganism_religion:0 "Schrein"
+ count_theocracy_male_paganism_religion:0 "#P Oberschamane#!"
+ count_theocracy_female_paganism_religion:0 "#P Oberschamane#!"
+ county_theocracy_paganism_religion:0 "Großschrein"
+ duke_theocracy_male_paganism_religion:0 "#E Erzpriester#!"
+ duke_theocracy_female_paganism_religion:0 "#E Erzpriesterin#!"
+ duchy_theocracy_paganism_religion:0 "Theokratie"
+ king_theocracy_male_paganism_religion:0 "#Y Großpriester#!"
+ king_theocracy_female_paganism_religion:0 "#Y Großpriesterin#!"
+ kingdom_theocracy_paganism_religion:0 "Großtheokratie"
+ emperor_theocracy_male_paganism_religion:0 "#D Gottkaiser#!"
+ emperor_theocracy_female_paganism_religion:0 "#D Gottkaiserin#!"
+ empire_theocracy_paganism_religion:0 "Heiliges Reich"
+ 
+# Baltic
+ count_theocracy_male_baltic_religion:0 "#P Vaidile#!"
+ count_theocracy_female_baltic_religion:0 "#P Vaidilute#!"
+ duke_theocracy_male_baltic_religion:0 "#E Hochvaidile#!"
+ duke_theocracy_female_baltic_religion:0 "#E Hochvaidilute#!"
+ king_theocracy_male_baltic_religion:0 "#Y Hexenkönig#!"
+ king_theocracy_female_baltic_religion:0 "#Y Hexenkönigin#!"
+ 
+# Slavic 
+ count_theocracy_male_slavic_religion:0 "#P Zhrets#!"
+ count_theocracy_female_slavic_religion:0 "#P Zhritsa#!"
+ duke_theocracy_male_slavic_religion:0 "#E Volkhv#!"
+ duke_theocracy_female_slavic_religion:0 "#E Vedunya#!"
+ 
+# Finno-Ugric
+ count_theocracy_male_finno_ugric_religion:0 "#P Noaidi#!"
+ count_theocracy_female_finno_ugric_religion:0 "#P Noaidi#!"
+ duke_theocracy_male_finno_ugric_religion:0 "#E Hochnoaidi#!"
+ duke_theocracy_female_finno_ugric_religion:0 "#E Hochnoaidi#!"
+ 
+# Taoism (same as Pagan/Bon)
+ 
+# Tengrism (same as Pagan)
+ 
+# West African 
+ baron_theocracy_male_west_african_religion:0 "Hogon"
+ baron_theocracy_female_west_african_religion:0 "Hogon"
+ count_theocracy_male_west_african_religion:0 "#P Hochhogon#!"
+ count_theocracy_female_west_african_religion:0 "#P Hochhogon#!"
+ king_theocracy_male_west_african_religion:0 "#Y Großhogon#!"
+ king_theocracy_female_west_african_religion:0 "#Y Großhogon#!"
+ 
+# West African Bori
+ baron_theocracy_male_west_african_bori_religion:0 "Adjingi"
+ baron_theocracy_female_west_african_bori_religion:0 "Magadja"
+ count_theocracy_male_west_african_bori_religion:0 "#P Hochadjingi#!"
+ count_theocracy_female_west_african_bori_religion:0 "#P Hochmagadja#!"
+ king_theocracy_male_west_african_bori_religion:0 "#Y Großadjingi#!"
+ king_theocracy_female_west_african_bori_religion:0 "#Y Großmagadja#!"
+ 
+# West African Roog 
+ baron_theocracy_male_west_african_roog_religion:0 "Saltigue"
+ baron_theocracy_female_west_african_roog_religion:0 "Saltigue"
+ count_theocracy_male_west_african_roog_religion:0 "#P Hochsaltigue#!"
+ count_theocracy_female_west_african_roog_religion:0 "#P Hochsaltigue#!"
+ king_theocracy_male_west_african_roog_religion:0 "#Y Großsaltigue#!"
+ king_theocracy_female_west_african_roog_religion:0 "#Y Großsaltigue#!"
+ 
+# Zoroastrianism
+ baron_theocracy_male_zoroastrianism_religion:0 "Ervad"
+ baron_theocracy_female_zoroastrianism_religion:0 "Ervad"
+ barony_theocracy_zoroastrianism_religion:0 "Vahram"
+ count_theocracy_male_zoroastrianism_religion:0 "#P Mobed#!"
+ count_theocracy_female_zoroastrianism_religion:0 "#P Mobedyar#!"
+ duke_theocracy_male_zoroastrianism_religion:0 "#E Dastur#!"
+ duke_theocracy_female_zoroastrianism_religion:0 "#E Dastuyar#!"
+ 
+# Zunism
+ baron_theocracy_male_zunism_religion:0 "Sonnenwächter"
+ baron_theocracy_female_zunism_religion:0 "Sonnenwächterin"
+ emperor_theocracy_male_zunism_religion:0 "#D Sonnenkaiser#!"
+ emperor_theocracy_female_zunism_religion:0 "#D Sonnenkaiserin#!"
+ 
+ 
+##############################################
+# Theocracy titles, faith localization (for special cases).
+ 
+# Shia
+ baron_theocracy_male_ismaili:0 "Mullah"
+ baron_theocracy_female_ismaili:0 "Mullah"
+ count_theocracy_male_ismaili:0 "#P Ayatollah#!"
+ count_theocracy_female_ismaili:0 "#P Ayatollah#!"
+ duke_theocracy_male_ismaili:0 "#E Großayatollah#!"
+ duke_theocracy_female_ismaili:0 "#E Großayatollah#!"
+ 
+# Orthodox 
+ count_theocracy_male_orthodox:0 "#P Metropolit#!"
+ count_theocracy_female_orthodox:0 "#P Metropolitin#!"
+ 
+##############################################
+# Special cultural titles (sorted by culture, then government type). 
+ 
+### Latin ###
+# Republic 
+ duke_republic_male_latin_group:0 "#E Doge#!"
+ duke_republic_female_latin_group:0 "#E Dogaressa#!"
+ king_republic_male_latin_group:0 "#Y Durchlauchter Doge#!"
+ king_republic_female_latin_group:0 "#Y Durchlauchte Dogaressa#!"
+ 
+### Roman ###
+# Feudal 
+ baron_feudal_male_roman:1 "Baro"
+ baron_feudal_female_roman:1 "Baronissa"
+ barony_feudal_roman:1 "Castrum"
+ count_feudal_male_roman:0 "#P Comes#!"
+ count_feudal_female_roman:1 "#P Comitissa#!"
+ county_feudal_roman:0 "Grafschaft"
+ duke_feudal_male_roman:1 "#E Dux#!"
+ duke_feudal_female_roman:1 "#E Ducissa#!"
+ duchy_feudal_roman:0 "Herzogtum"
+ king_feudal_male_roman:0 "#Y Rex#!"
+ king_feudal_female_roman:0 "#Y Regina#!"
+ kingdom_feudal_roman:0 "Regnum"
+ emperor_feudal_male_roman:1 "#D Imperator#!"
+ emperor_feudal_female_roman:1 "#D Imperatrix#!"
+ empire_feudal_roman:1 "Imperium"
+ 
+# Republic
+ baron_republic_male_roman:0 "Magister"
+ baron_republic_female_roman:0 "Magistra"
+ count_republic_male_roman:0 "#P Präfekt#!"
+ count_republic_female_roman:0 "#P Präfektin#!"
+ duke_republic_male_roman:0 "#E Tribun#!"
+ duke_republic_female_roman:0 "#E Tribunin#!"
+ duchy_republic_roman:0 "Herzogtum"
+ king_republic_male_roman:0 "#Y Konsul#!"
+ king_republic_female_roman:0 "#Y Konsulin#!"
+ kingdom_republic_roman:0 "Liga"
+ emperor_republic_male_roman:0 "#D Princeps#!"
+ emperor_republic_female_roman:0 "#D Prinzessin#!"
+ empire_republic_roman:0 "Großrepublik"
+ 
+# Viceroyalty 
+ baron_viceroyalty_male_roman:0 "Statthalter"
+ baron_viceroyalty_female_roman:0 "Statthalterin"
+ barony_viceroyalty_roman:0 "Provinz"
+ count_viceroyalty_male_roman:0 "#P Statthalter#!"
+ count_viceroyalty_female_roman:0 "#P Statthalterin#!"
+ county_viceroyalty_roman:0 "Provinz"
+ duke_viceroyalty_male_roman:0 "#E Statthalter#!"
+ duke_viceroyalty_female_roman:0 "#E Statthalterin#!"
+ duchy_viceroyalty_roman:0 "Provinz"
+ king_viceroyalty_male_roman:1 "#Y Vicar#!"
+ king_viceroyalty_female_roman:1 "#Y Vicarissa#!"
+ kingdom_viceroyalty_roman:1 "Diözese"
+ emperor_viceroyalty_male_roman:0 "#D Princeps#!"
+ emperor_viceroyalty_female_roman:1 "#D Principissa#!"
+ empire_viceroyalty_roman:0 "Prinzipat"
+ 
+### Greek ###
+# Feudal / Imperial
+ count_feudal_male_greek:0 "#P Komes#!"
+ count_feudal_female_greek:0 "#P Komitissa#!"
+ duke_feudal_male_greek:0 "#E Dux#!"
+ duke_feudal_female_greek:0 "#E Doukissa#!"
+ king_feudal_male_greek:0 "#Y Despot#!"
+ king_feudal_female_greek:0 "#Y Despotissa#!"
+ kingdom_feudal_greek:0 "Despotat"
+ emperor_feudal_male_greek:0 "#D Basileus#!"
+ emperor_feudal_female_greek:0 "#D Basilissa#!"
+ 
+### Byzantine ###
+# Republic 
+ duke_republic_male_byzantine_group:1 "#E Eparch#!"
+ duke_republic_female_byzantine_group:1 "#E Eparchessa#!"
+ king_republic_male_byzantine_group:0 "#Y Durchlauchter Doge#!"
+ king_republic_female_byzantine_group:0 "#Y Durchlauchte Dogaressa#!"
+ 
+# Viceroyalty 
+ duke_viceroyalty_male_byzantine_group:0 "#E Strategos#!"
+ duke_viceroyalty_female_byzantine_group:0 "#E Strategitissa#!"
+ duchy_viceroyalty_byzantine_group:0 "Thema"
+ king_viceroyalty_male_byzantine_group:0 "#Y Exarch#!"
+ king_viceroyalty_female_byzantine_group:0 "#Y Exarchessa#!"
+ king_viceroyalty_byzantine_group:0 "#Y Exarchat#!"
+ emperor_viceroyalty_male_byzantine_group:0 "#D Großexarch#!"
+ emperor_viceroyalty_female_byzantine_group:0 "#D Großexarchessa#!"
+ empire_viceroyalty_byzantine_group:0 "Großexarchat"
+ 
+### German ###
+# Feudal / Tribal 
+ emperor_feudal_male_german:0 "#D Kaiser#!"
+ emperor_feudal_female_german:0 "#D Kaiserin#!"
+ 
+### Norse ###
+# Feudal / Tribal 
+ baron_feudal_male_norse:0 "Þegn"
+ baron_feudal_female_norse:0 "Þegn"
+ count_feudal_male_norse:0 "#E Jarl#!"
+ count_feudal_female_norse:0 "#E Jarl#!"
+ county_feudal_norse:0 "Jarltum"
+ 
+### English ###
+# Feudal / Tribal 
+ count_feudal_male_english:0 "#P Earl#!"
+ count_feudal_female_english:0 "#P Gräfin#!"
+ county_feudal_english:0 "Earltum"
+ 
+### Anglo-Saxon ###
+# Feudal / Tribal 
+ baron_feudal_male_anglo_saxon:0 "Thane"
+ baron_feudal_female_anglo_saxon:0 "Thane"
+ 
+ baron_republic_male_anglo_saxon:0 "Vogt"
+ baron_republic_female_anglo_saxon:0 "Vogtin"
+ barony_republic_anglo_saxon:0 "Bezirk"
+ 
+ count_republic_male_anglo_saxon:0 "#P Schultheiß#!"
+ count_republic_female_anglo_saxon:0 "#P Schultheißin#!"
+ county_republic_anglo_saxon:0 "Shire"
+ 
+### Irish ###
+ 
+### Pictish ###
+ count_feudal_male_pictish:0 "#P Mormaer#!"
+ count_feudal_female_pictish:1 "#P Banmormaer#!"
+ county_feudal_pictish:0 "Mormaertum"
+ 
+### Scottish ###
+ baron_republic_male_scottish:0 "Provost"
+ baron_republic_female_scottish:0 "Provostin"
+ barony_republic_scottish:0 "Burgh"
+ 
+ count_republic_male_scottish:0 "#P Oberprovost#!"
+ count_republic_female_scottish:0 "#P Oberprovostin#!"
+ 
+### Hausa ###
+ count_feudal_female_hausan_independent:0 "#P Klein-Magajiya#!"
+ duke_feudal_female_hausan_independent:0 "E Magajiya#!"
+ king_feudal_female_hausan_independent:0 "#Y Groß-Magajiya#!"
+ 
+### Principalities ###
+# Feudal/Tribal
+ duke_feudal_male_prince_independent:0 "#E Prinz#!"
+ duke_feudal_female_prince_independent:0 "#E Prinzessin#!"
+ duchy_feudal_prince_independent:0 "Fürstentum"
+ duke_feudal_male_prince_always:0 "#E $duke_feudal_male_prince_independent$#!"
+ duke_feudal_female_prince_always:0 "#E $duke_feudal_female_prince_independent$#!"
+ duchy_feudal_prince_always:0 "$duchy_feudal_prince_independent$"
+ 
+### Grand Principalities ###
+# Feudal
+ king_feudal_male_grand_prince_independent:0 "#Y Großfürst#!"
+ king_feudal_female_grand_prince_independent:0 "#Y Großfürstin#!"
+ kingdom_feudal_grand_prince_independent:0 "Großfürstentum"
+ 
+### Grand Duchies ###
+# Feudal
+ king_feudal_male_grand_duke_independent:0 "#EY Großherzog#!"
+ king_feudal_female_grand_duke_independent:0 "#EY Großherzogin#!"
+ kingdom_feudal_grand_duke_independent:0 "#E Großherzogtum#!"
+ 
+### Lombard ###
+# Feudal
+ duke_feudal_male_lombard_independent:0 "#E Prinz"#!
+ duke_feudal_female_lombard_independent:0 "#E Prinzessin#!"
+ duchy_feudal_lombard_independent:0 "Fürstentum"
+ 
+### Banates ###
+# Feudal
+ duke_feudal_male_ban:0 "#E Ban#!"
+ duke_feudal_female_ban:0 "#E Ban#!"
+ duchy_feudal_ban:0 "Banat"
+ 
+### Sardinian ###
+# Feudal
+ barony_feudal_sardinian:0 "Curadoria"
+ baron_feudal_male_sardinian:0 "Curadore"
+ baron_feudal_female_sardinian:0 "Curadora"
+ county_feudal_sardinian:0 "Judicadu"
+ count_feudal_male_sardinian:0 "#P Judike#!"
+ count_feudal_female_sardinian:0 "#P Judesa#!"
+ duchy_feudal_sardinian:0 "Archonat"
+ duke_feudal_male_sardinian:0 "#E Archon#!"
+ duke_feudal_female_sardinian:0 "#E Archonesa#!"
+ 
+### Russian ###
+# Feudal 
+ duke_feudal_male_russian:0 "#E Großfürst#!"
+ duke_feudal_female_russian:0 "#EGroßfürstin#!"
+ duchy_feudal_russian:0 "Großfürstentum"
+ emperor_feudal_male_russian:0 "#D Zar#!"
+ emperor_feudal_female_russian:0 "#D Zarin#!"
+ empire_feudal_russian:0 "Zarenreich"
+ 
+### Arabic ###
+# Feudal / Clan / Tribal 
+ baron_feudal_male_arabic_group:1 "Wālī"
+ baron_feudal_female_arabic_group:1 "Wālia"
+ barony_feudal_arabic_group:1 "Wilāyah"
+ count_feudal_male_arabic_group:0 "#P Scheich#!"
+ count_feudal_female_arabic_group:0 "#P Scheicha#!"
+ county_feudal_arabic_group:0 "Scheichtum"
+ duke_feudal_male_arabic_group:0 "#E Emir#!"
+ duke_feudal_female_arabic_group:0 "#E Emira#!"
+ duchy_feudal_arabic_group:0 "Emirat"
+ king_feudal_male_arabic_group:1 "#Y Malik#!"
+ king_feudal_female_arabic_group:1 "#Y Malika#!"
+ kingdom_feudal_arabic_group:1 "Malikat"
+ king_feudal_muslim_male_arabic_group:0 "#Y Sultan#!"
+ king_feudal_muslim_female_arabic_group:0 "#Y Sultana#!"
+ kingdom_feudal_muslim_arabic_group:0 "Sultanat"
+ emperor_feudal_male_arabic_group:1 "#D Malik ul-Afdal#!"
+ emperor_feudal_female_arabic_group:1 "#D Malika al-Muazzama#!"
+ empire_feudal_arabic_group:0 "Reich"
+ 
+# Republic 
+ count_republic_male_arabic_group:0 "#P Wali#!"
+ count_republic_female_arabic_group:0 "#P Walia#!"
+ duke_republic_male_arabic_group:0 "#E Wali-Emir#!"
+ duke_republic_female_arabic_group:0 "#E Walia-Emir#!"
+ king_republic_male_arabic_group:0 "#Y Wali-Malik#!"
+ king_republic_female_arabic_group:0 "#Y Walia-Malik#!"
+ 
+### Turkish ###
+# Feudal / Clan 
+ baron_feudal_male_turkish:1 "Agha"
+ baron_feudal_female_turkish:1 "Hanim"
+ barony_feudal_turkish:1 "Timariot"
+ count_feudal_male_turkish:1 "#P Beg#!"
+ count_feudal_female_turkish:1 "#P Begum#!"
+ county_feudal_turkish:0 "Beylik"
+ duke_feudal_male_turkish:1 "#E Atabeg#!"
+ duke_feudal_female_turkish:1 "#E Atabegum#!"
+ duchy_feudal_turkish:1 "Atabegat"
+ king_feudal_male_turkish:0 "#Y Sultan#!"
+ king_feudal_female_turkish:0 "#Y Sultana#!"
+ kingdom_feudal_turkish:0 "Sultanat"
+ emperor_feudal_male_turkish:1 "#D Sultan al-Muazzam#!"
+ emperor_feudal_female_turkish:1 "#D Sultana al-Muazzama#!"
+ empire_feudal_turkish:0 "Reich"
+ 
+### Iranian ###
+# Feudal / Clan 
+ baron_feudal_male_iranian_group:0 "Argbadh"
+ baron_feudal_female_iranian_group:1 "$baron_feudal_male_iranian_group$"
+ barony_feudal_iranian_group:0 "Arg"
+ count_feudal_male_iranian_group:0 "#P Marzoban+!"
+ count_feudal_female_iranian_group:1 "#P $count_feudal_male_iranian_group$#!"
+ county_feudal_iranian_group:0 "Marzpanat"
+ duke_feudal_male_iranian_group:0 "#E Satrap#!"
+ duke_feudal_female_iranian_group:1 "#E $duke_feudal_male_iranian_group$#!"
+ duchy_feudal_iranian_group:0 "Satrapie"
+ king_feudal_male_iranian_group:0 "#Y Schah#!"
+ king_feudal_female_iranian_group:0 "#Y Banebschen#!"
+ kingdom_feudal_iranian_group:1 "Schahreich"
+ emperor_feudal_male_iranian_group:0 "#D Schahanschah#!"
+ emperor_feudal_female_iranian_group:0 "#D Banebshenan Banebshen#!"
+ empire_feudal_iranian_group:0 "Reich"
+ 
+ # Muslim Feudal/Clan
+ baron_feudal_muslim_male_iranian_group:0 "Nā'ib"
+ baron_feudal_muslim_female_iranian_group:0 "Nā'iba"
+ barony_feudal_muslim_iranian_group:0 "$barony_feudal_iranian_group$"
+ count_feudal_muslim_male_iranian_group:0 "#P Vali#!"
+ count_feudal_muslim_female_iranian_group:0 "#P Valia#!"
+ county_feudal_muslim_iranian_group:0 "Vilayah"
+ duke_feudal_muslim_male_iranian_group:0 "#E Amir#!"
+ duke_feudal_muslim_female_iranian_group:0 "#E Amira#!"
+ duchy_feudal_muslim_iranian_group:0 "Amirat"
+ king_feudal_muslim_male_iranian_group:0 "#Y Amir-e Amiran#!"
+ king_feudal_muslim_female_iranian_group:0 "#Y Amira-e Amiran#!"
+ kingdom_feudal_muslim_iranian_group:0 "Großamirat"
+ # Muslim Iranian Empire titles are the same as non-Muslim Iranian Imperial titles
+ 
+### Sogdian ###
+# Feudal / Clan 
+ duke_feudal_male_sogdian:0 "#E Ichschid#!"
+ 
+### Mongol ###
+# Feudal / Clan / Tribal / Nomadic
+ baron_feudal_male_mongol:0 "Taischi"
+ 
+### Uyghur ###
+# Feudal / Clan / Tribal / Nomadic
+ king_feudal_male_uyghur:0 "#Y Idiqut#!"
+ king_feudal_female_uyghur:0 "#Y Idiqut#!"
+ 
+### Altaic ###
+# Feudal / Tribal / Clan / Nomadic 
+ king_feudal_male_altaic_group:0 "#Y Khan#!"
+ king_feudal_female_altaic_group:0 "#Y Khanum#!"
+ kingdom_feudal_altaic_group:0 "Khanat"
+ emperor_feudal_male_altaic_group:0 "#D Khagan#!"
+ emperor_feudal_female_altaic_group:0 "#D Khatun#!"
+ empire_feudal_altaic_group:0 "Khaganat"
+ 
+### Dravidian / Indo-Aryan ###
+# Feudal / Clan / Tribal 
+ baron_feudal_male_dravidian_group:0 "Damapati"
+ baron_feudal_female_dravidian_group:0 "Damapatni"
+ barony_feudal_dravidian_group:0 "Dama"
+ count_feudal_male_dravidian_group:0 "#P Thakur#!"
+ count_feudal_female_dravidian_group:0 "#P Thakurani#!"
+ county_feudal_dravidian_group:0 "Thikana"
+ duke_feudal_male_dravidian_group:0 "#E Radscha#!"
+ duke_feudal_female_dravidian_group:0 "#E Rani#!"
+ duchy_feudal_dravidian_group:0 "Radsch"
+ king_feudal_male_dravidian_group:0 "#Y Maharadscha#!"
+ king_feudal_female_dravidian_group:0 "#Y Maharani#!"
+ emperor_feudal_male_dravidian_group:0 "#D Samrat#!"
+ emperor_feudal_female_dravidian_group:0 "#D Samradschni#!"
+ 
+ 
+### OBSOLETE with new division ### West-African ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_west_african_group:0 "Tigui"
+ baron_feudal_female_west_african_group:0 "Tigua"
+ count_feudal_male_west_african_group_independent:0 "#P Jamanatigi#!"
+ count_feudal_female_west_african_group_independent:0 "#P Jamanatiga#!"
+ county_feudal_west_african_group:1 "Jamana"
+ count_feudal_male_west_african_group:0 "#P Farin#!"
+ count_feudal_female_west_african_group:0 "# Farina#!"
+ duke_feudal_male_west_african_group:0 "#E Farbas#!"
+ duke_feudal_female_west_african_group:0 "#E Farba#!"
+ duchy_feudal_west_african_group:1 "Herzogtum"
+ king_feudal_male_west_african_group:1 "#Y Faama#!"
+ king_feudal_female_west_african_group:1 "#Y Malika#!"
+ kingdom_feudal_west_african_group:1 "Königreich"
+ emperor_feudal_male_west_african_group:0 "#D Mansa#!"
+ emperor_feudal_female_west_african_group:0 "#D Sultana#!"
+ empire_feudal_west_african_group:0 "Kurufaba"
+ 
+ 
+### Tibetan Group ###
+# Feudal / Clan 
+ count_feudal_male_tibetan_group:0 "#P Ngapo#!"
+ count_feudal_female_tibetan_group:0 "#P Ngamo#!"
+ county_feudal_tibetan_group:0 "Grafschaft"
+ duke_feudal_male_tibetan_group:0 "#E Prabhu#!"
+ duke_feudal_female_tibetan_group:0 "#E Mahila#!"
+ duchy_feudal_tibetan_group:0 "Herzogtum"
+ king_feudal_male_tibetan_group:0 "#Y Gyalpo#!"
+ king_feudal_female_tibetan_group:0 "#Y Gyelmo#!"
+ kingdom_feudal_tibetan_group:0 "Gyalpo"
+ emperor_feudal_male_tibetan_group:0 "#D Tsenpo#!"
+ emperor_feudal_female_tibetan_group:0 "#D Maharani#!"
+ empire_feudal_tibetan_group:0 "Reich"
+ 
+ ### Iberian ###
+ # Clan
+ baron_clan_male_iberian_group:0 "$baron_feudal_male_arabic_group$"
+ baron_clan_female_iberian_group:0 "$baron_feudal_female_arabic_group$"
+ barony_clan_iberian_group:0 "$barony_feudal_arabic_group$"
+ count_clan_male_iberian_group:0 "#P $count_feudal_male_arabic_group$#!"
+ count_clan_female_iberian_group:0 "#P $count_feudal_female_arabic_group$#!"
+ county_clan_iberian_group:0 "$county_feudal_arabic_group$"
+ duke_clan_male_iberian_group:0 "#E $duke_feudal_male_arabic_group$#!"
+ duke_clan_female_iberian_group:0 "#E $duke_feudal_female_arabic_group$#!"
+ duchy_clan_iberian_group:0 "$duchy_feudal_arabic_group$"
+ king_clan_male_iberian_group:0 "#Y $king_feudal_male_arabic_group$#!"
+ king_clan_female_iberian_group:0 "#Y $king_feudal_female_arabic_group$#!"
+ kingdom_clan_iberian_group:0 "$kingdom_feudal_arabic_group$"
+ emperor_clan_male_iberian_group:0 "#D $emperor_feudal_male_arabic_group$#!"
+ emperor_clan_female_iberian_group:0 "#D $emperor_feudal_female_arabic_group$#!"
+ empire_clan_iberian_group:0 "$empire_feudal_arabic_group$"
+ 
+####################################################
+ 
+#Princes (children of Kings/Emperors, sorted by culture)
+ 
+### Roman ### 
+ prince_male_roman:1 "Princeps"
+ prince_female_roman:1 "Principissa"
+ prince_male_roman_empire:0 "Cäsar"
+ prince_female_roman_empire:1 "Caesarissa"
+ 
+### Iberian ### 
+ prince_male_iberian_group:0 "Infant"
+ prince_female_iberian_group:0 "Infantin"
+ prince_male_iberian_group_empire:0 "Infant"
+ prince_female_iberian_group_empire:0 "Infantin"
+ 
+### Iranian ### 
+ prince_male_iranian_group:0 "Schahsada"
+ prince_female_iranian_group:0 "Schahdocht"
+ prince_male_iranian_group_empire:0 "Schahsada"
+ prince_female_iranian_group_empire:0 "Schahdocht"
+ 
+### Dravidian / Indo-Aryan ### 
+ prince_male_dravidian_group:0 "Radschkumar"
+ prince_female_dravidian_group:0 "Radschkumari"
+ prince_male_dravidian_group_empire:0 "Radschkumar"
+ prince_female_dravidian_group_empire:0 "Radschkumari"
+ 
+## Imperial Prince ##
+ prince_empire:0 "Prinz"
+ princess_empire:0 "Prinzessin"
+ 
+####################################################
+#Special titles
+ ecumenical_patriarch:0 "Ökumenischer Patriarch"
+ ecumenical_matriarch:0 "Ökumenischer Matriarchin"
+ caliph:0 "Kalif"
+ archduke:0 "Erzherzog"
+ archduchess:0 "Erzherzogin"
+ archduchy:0 "Erzherzogtum"
+ title_prince:0 "Prinz"
+ title_princess:0 "Prinzessin"
+ title_principality:0 "Fürstentum"
+ swiss_confederation:0 "Eidgenossenschaft"
+ count_feudal_male_e_britannia:0 "#P Earl#!"
+ count_feudal_female_e_britannia:0 "#P Gräfin#!"
+ county_feudal_e_britannia:0 "Earltum"
+ count_feudal_male_k_wales:0 "#P Fürst#!"
+ count_feudal_female_k_wales:0 "#P Fürstin#!"
+ county_feudal_k_wales:0 "Fürstentum"
+ county_isle:0 "Isle"
+ 
+ dauphin_male_french:0 "Dauphin"
+ dauphin_female_french:0 "Dauphine"
+ dauphinate_french:0 "Dauphinat"
+ 
+ king_feudal_male_k_ireland_irish:0 "#Y Hochkönig#!"
+ king_feudal_female_k_ireland_irish:0 "#Y Hochkönigin#!"
+ kingdom_feudal_k_ireland_irish:0 "Hochkönigreich"
+ realm_priest_male:0 "[CHARACTER.GetCouncilTitle]"
+ realm_priest_female:0 "[CHARACTER.GetCouncilTitle]"
+ head_of_faith_male:0 "[CHARACTER.GetFaith.ReligiousHeadName|U]"
+ head_of_faith_female:0 "[CHARACTER.GetFaith.ReligiousHeadName|U]"
+ 
+### Berber ###
+# Feudal / Clan
+ baron_feudal_male_berber_group:0 "Nā'ib"
+ baron_feudal_female_berber_group:0 "Nā'iba"
+ barony_feudal_berber_group:0 "Bou"
+ count_feudal_male_berber_group:0 "#P Wālī#!"
+ count_feudal_female_berber_group:0 "#P Wālia#!"
+ county_feudal_berber_group:0 "Wilāyah"
+ count_feudal_male_berber_group_independent:0 "#P Scheich#!"
+ count_feudal_female_berber_group_independent:0 "#P Shaykha#!"
+ county_feudal_berber_group_independent:0 "Scheichtum"
+ duke_feudal_male_berber_group:0 "#E Emir#!"
+ duke_feudal_female_berber_group:0 "#E Emira#!"
+ duchy_feudal_berber_group:0 "Emirat"
+ king_feudal_male_berber_group:0 "#Y Amīr al-Umarā#!"
+ king_feudal_female_berber_group:0 "#Y Amīra al-Umarā#!"
+ kingdom_feudal_berber_group:0 "Großemirat"
+ emperor_feudal_male_berber_group:0 "#D Malik al-Mulūk#!"
+ emperor_feudal_female_berber_group:0 "#D Malika al-Mulūk#!"
+ empire_feudal_berber_group:0 "Großreich"
+# Tribal 
+ baron_tribal_male_berber_group:0 "Ra'is"
+ baron_tribal_female_berber_group:0 "Ra'isa"
+ count_tribal_male_berber_group:0 "#P Scheich#!"
+ count_tribal_female_berber_group:0 "#P Scheicha#!"
+ county_tribal_berber_group:0 "Scheichtum"
+ 
+ 
+### Sahelian ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_sahelian_group:0 "Horo"
+ baron_feudal_female_sahelian_group:0 "Hora"
+ count_feudal_male_sahelian_group:0 "#P Debegum2#!"
+ count_feudal_female_sahelian_group:0 "#P Debeguma#!"
+ duke_feudal_male_sahelian_group:0 "#E Nyanyagume#!"
+ duke_feudal_female_sahelian_group:0 "#E Nyanyaguma#!"
+ king_feudal_male_sahelian_group:0 "#Y Maghan#!"
+ king_feudal_female_sahelian_group:0 "#Y Magha#!"
+ emperor_feudal_male_sahelian_group:0 "#D Kaya Magha#!"
+ emperor_feudal_female_sahelian_group:0 "#D Kaya Magha#!"
+ 
+### Senegambian group ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_senegambian_group:0 "Tigui"
+ baron_feudal_female_senegambian_group:0 "Tigua"
+ count_feudal_male_senegambian_group:0 "#P Geer#!"
+ count_feudal_female_senegambian_group:0 "#P Geera#!"
+ duke_feudal_male_senegambian_group:0 "#E Damel#!"
+ duke_feudal_female_senegambian_group:0 "#E Damela#!"
+ king_feudal_male_senegambian_group:0 "#Y Simbago#!"
+ king_feudal_female_senegambian_group:0 "#Y Simbaga#!"
+ emperor_feudal_male_senegambian_group:0 "#D Soma#!"
+ emperor_feudal_female_senegambian_group:0 "#D Soma#!"
+ 
+### Yoruba group ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_yoruba_group:0 "Uzama"
+ baron_feudal_female_yoruba_group:0 "Uzama"
+ count_feudal_male_yoruba_group:0 "#P Nana#!"
+ count_feudal_female_yoruba_group:0 "#P Nana#!"
+ duke_feudal_male_yoruba_group:0 "#E Ajapada#""
+ duke_feudal_female_yoruba_group:0 "#E Ajapada#""
+ king_feudal_male_yoruba_group:0 "#Y Oba#!"
+ king_feudal_female_yoruba_group:0 "#Y Oba#!"
+ emperor_feudal_male_yoruba_group:0 "#D Alafin#!"
+ emperor_feudal_female_yoruba_group:0 "#D Alafin#!"
+ 
+### Somalian group ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_somalian_group:0 "Akil"
+ baron_feudal_female_somalian_group:0 "Akilad"
+ count_feudal_male_somalian_group:0 "#P Island#!"
+ count_feudal_female_somalian_group:0 "#P Islanad#!"
+ duke_feudal_male_somalian_group:0 "#E Gerad#!"
+ duke_feudal_female_somalian_group:0 "#E Geradad#!"
+ king_tribal_male_somalian_group:0 "#Y Ughaz#!"
+ king_tribal_female_somalian_group:0 "#Y Ughazad#!"
+ king_feudal_male_somalian_group:0 "#Y Suldaan#!"
+ king_feudal_female_somalian_group:0 "#Y Suldaanad#!"
+ emperor_feudal_male_somalian_group:0 "#D Boqor#!"
+ emperor_feudal_female_somalian_group:0 "#D Boqorad#!"
+ 
+### Central African group ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_central_african_group:0 "Chima Chidibe"
+ baron_feudal_female_central_african_group:0 "Chima Chidibe"
+ count_feudal_male_central_african_group:0 "#P Chima#!"
+ count_feudal_female_central_african_group:0 "#P Chima#!"
+ duke_feudal_male_central_african_group:0 "#E Galadima#!"
+ duke_feudal_female_central_african_group:0 "#E Galadima#!"
+ king_feudal_male_central_african_group:0 "#Y Mai#!"
+ king_feudal_female_central_african_group:0 "#Y Gumsu#!"
+ emperor_feudal_male_central_african_group:0 "#D Sultan#!"
+ emperor_feudal_female_central_african_group:0 "#D Sultana#!"
+ 
+### Akan group ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_akan_group:0 "Obaatan"
+ baron_feudal_female_akan_group:0 "Obaatana"
+ count_feudal_male_akan_group:0 "#P Nana#!"
+ count_feudal_female_akan_group:0 "#P Nana#!"
+ duke_feudal_male_akan_group:0 "#E Krontihene#!"
+ duke_feudal_female_akan_group:0 "#E Krontihena#!"
+ king_feudal_male_akan_group:0 "#Y Omanhene#!"
+ king_feudal_female_akan_group:0 "#Y Omanhena#!"
+ emperor_feudal_male_akan_group:0 "#D Akanhene#!"
+ emperor_feudal_female_akan_group:0 "#D Akanhena#!"
+ 
+### Beja ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_beja:0 "Omda"
+ baron_feudal_female_beja:0 "Omda"
+ count_feudal_male_beja:0 "#P Nazir#!"
+ count_feudal_female_beja:0 "#P Nazira#!"
+ duke_feudal_male_beja:0 "#E Emir#!"
+ duke_feudal_female_beja:0 "#E Emira#!"
+ king_feudal_male_beja:0 "#Y Malik#!"
+ king_feudal_female_beja:0 "#Y Malika#!"
+ emperor_feudal_male_beja:0 "#D Sultan#!"
+ emperor_feudal_female_beja:0 "#D Sultana#!"
+ 
+### Ethiopian ###
+# Feudal / Clan / Tribal
+ count_feudal_male_ethiopian:0 "#P Ras#!"
+ count_feudal_female_ethiopian:0 "#P Woyzerit#!"
+ duke_feudal_male_ethiopian:0 "#E Mesfin#!"
+ duke_feudal_female_ethiopian:0 "#E Woyzero#!"
+ king_feudal_male_ethiopian:0 "#Y Negus#!"
+ king_feudal_female_ethiopian:0 "#Y Nigist#!"
+ emperor_feudal_male_ethiopian:0 "#D Negusa Negast#!"
+ emperor_feudal_female_ethiopian:0 "#D Itege#!"
+ 
+### Hausa ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_hausan:0 "Gida"
+ baron_feudal_female_hausan:0 "Gida"
+ count_feudal_male_hausan:0 "#P Sarkin Gadi#!"
+ count_feudal_female_hausan:0 "#P Sarkina Gadi#!"
+ duke_feudal_male_hausan:0 "#E Galadima#!"
+ duke_feudal_female_hausan:0 "#E Magajiya#!"
+ king_feudal_male_hausan:1 "#Y Sarkin#!"
+ king_feudal_female_hausan:1 "#Y Sarauniya#!"
+ emperor_feudal_male_hausan:1 "#D Sarkin Sarakuna#!"
+ emperor_feudal_female_hausan:1 "#D Sarauniyar Sarauniya#!"
+ 
