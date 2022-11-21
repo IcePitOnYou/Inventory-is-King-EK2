@@ -22,6 +22,6 @@ court_position_category_prowess = {
 	name = COURT_POSITION_CATEGORY_PROWESS_NAME
 }
 
-court_position_category_commander = {
+court_position_category_special = {
 	name = COURT_POSITION_CATEGORY_COMMANDER_NAME
 }
