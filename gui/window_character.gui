@@ -1800,7 +1800,7 @@ window = {
 									icon = {
 										name = "praxis_icon"
 										size = { 30 30 }
-										texture = "gfx/interface/icons/icon_royal_court.dds"
+										texture = "gfx/interface/icons/icon_praxis.dds"
 									}
 
 									text_single = {
