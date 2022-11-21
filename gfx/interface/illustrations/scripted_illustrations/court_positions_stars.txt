@@ -1328,6 +1328,168 @@ courtposition_view_stars = {
 			aptitude = { 	court_position = court_mathematician_position	value = 5 } }
 		reference = "court_stars/stars_5.dds"
 	}
+	
+
+	texture = {
+		trigger = {     has_court_position = court_housecarl_court_position
+			aptitude = { 	court_position = court_housecarl_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_housecarl_court_position
+			aptitude = { 	court_position = court_housecarl_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_housecarl_court_position
+			aptitude = { 	court_position = court_housecarl_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_housecarl_court_position
+			aptitude = { 	court_position = court_housecarl_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_housecarl_court_position
+			aptitude = { 	court_position = court_housecarl_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+	
+	
+	texture = {
+		trigger = {     has_court_position = loremaster_court_position
+			aptitude = { 	court_position = loremaster_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = loremaster_court_position
+			aptitude = { 	court_position = loremaster_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = loremaster_court_position
+			aptitude = { 	court_position = loremaster_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = loremaster_court_position
+			aptitude = { 	court_position = loremaster_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = loremaster_court_position
+			aptitude = { 	court_position = loremaster_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+	
+	
+	texture = {
+		trigger = {     has_court_position = huntwife_court_position
+			aptitude = { 	court_position = huntwife_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = huntwife_court_position
+			aptitude = { 	court_position = huntwife_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = huntwife_court_position
+			aptitude = { 	court_position = huntwife_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = huntwife_court_position
+			aptitude = { 	court_position = huntwife_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = huntwife_court_position
+			aptitude = { 	court_position = huntwife_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+	
+	
+	texture = {
+		trigger = {     has_court_position = forgewife_court_position
+			aptitude = { 	court_position = forgewife_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = forgewife_court_position
+			aptitude = { 	court_position = forgewife_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = forgewife_court_position
+			aptitude = { 	court_position = forgewife_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = forgewife_court_position
+			aptitude = { 	court_position = forgewife_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = forgewife_court_position
+			aptitude = { 	court_position = forgewife_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+	
+	
+	texture = {
+		trigger = {     has_court_position = hearthwife_court_position
+			aptitude = { 	court_position = hearthwife_court_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = hearthwife_court_position
+			aptitude = { 	court_position = hearthwife_court_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = hearthwife_court_position
+			aptitude = { 	court_position = hearthwife_court_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = hearthwife_court_position
+			aptitude = { 	court_position = hearthwife_court_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = hearthwife_court_position
+			aptitude = { 	court_position = hearthwife_court_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
+	
+	
+	texture = {
+		trigger = {     has_court_position = court_mage_position
+			aptitude = { 	court_position = court_mage_position	value = 1 } }
+		reference = "court_stars/stars_1.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_mage_position
+			aptitude = { 	court_position = court_mage_position	value = 2 } }
+		reference = "court_stars/stars_2.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_mage_position
+			aptitude = { 	court_position = court_mage_position	value = 3 } }
+		reference = "court_stars/stars_3.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_mage_position
+			aptitude = { 	court_position = court_mage_position	value = 4 } }
+		reference = "court_stars/stars_4.dds"
+	}
+	texture = {
+		trigger = {     has_court_position = court_mage_position
+			aptitude = { 	court_position = court_mage_position	value = 5 } }
+		reference = "court_stars/stars_5.dds"
+	}
 
 
 }

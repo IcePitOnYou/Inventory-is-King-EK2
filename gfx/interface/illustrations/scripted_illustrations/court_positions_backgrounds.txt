@@ -119,6 +119,38 @@ courtposition_view_bg = {
 		reference = "court_positions/garuda.dds"
 	}
 	
+	# EK2 COURT POSITIONS
+	
+	texture = {
+		trigger = { has_court_position = court_housecarl_court_position }
+		reference = "court_positions/strategist_master.dds"
+	}
+	
+	texture = {
+		trigger = { has_court_position = loremaster_court_position }
+		reference = "court_positions/court_scriber.dds"
+	}
+	
+	texture = {
+		trigger = { has_court_position = huntwife_court_position }
+		reference = "court_positions/master_of_the_hunt.dds"
+	}
+	
+	texture = {
+		trigger = { has_court_position = forgewife_court_position }
+		reference = "court_positions/master_blacksmith.dds"
+	}
+	
+	texture = {
+		trigger = { has_court_position = hearthwife_court_position }
+		reference = "court_positions/lady_in_waiting.dds"
+	}
+	
+	texture = {
+		trigger = { has_court_position = court_mage_position }
+		reference = "court_positions/court_apothecary.dds"
+	}
+	
 	###### KETAROS ADVANCED COURT POSITIONS ######
 	
 	texture = {
